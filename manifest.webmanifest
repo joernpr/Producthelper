@@ -25,35 +25,5 @@
    "type": "image/png",
    "purpose": "maskable"
   }
- ],
- "shortcuts": [
-  {
-   "name": "Automatisierung",
-   "url": "./index.html#/aut"
-  },
-  {
-   "name": "Industrielle Kommunikation",
-   "url": "./index.html#/ik"
-  },
-  {
-   "name": "Relais",
-   "url": "./index.html#/rel"
-  },
-  {
-   "name": "Trennverstärker & I/O-Signalrangierung",
-   "url": "./index.html#/tv"
-  },
-  {
-   "name": "Sicherheitsschaltgeräte & Sensoren",
-   "url": "./index.html#/ssg"
-  },
-  {
-   "name": "Systemverkabelung",
-   "url": "./index.html#/svk"
-  },
-  {
-   "name": "Ansprechpartner",
-   "url": "./index.html#/ap"
-  }
  ]
 }

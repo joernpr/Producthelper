@@ -1,4 +1,4 @@
-PRODUKTHELFER AUTOMATION – INSTALLIERBARE APP, VERSION V01.04
+PRODUKTHELFER AUTOMATION – INSTALLIERBARE APP, VERSION V01.06
 ================================================================
 
 FUNKTION
@@ -9,6 +9,7 @@ FUNKTION
   - Trennverstärker & I/O-Signalrangierung  (V6.2)
   - Sicherheitsschaltgeräte & Sensoren      (V02.00)
   - Systemverkabelung                       (V1.0)
+  - Dienstleistungen                        (V01.00)
   - Ansprechpartner                         (V02.00)
   Dazu: Suche mit Alltagsbegriffen, Artikelnummern und Beschreibungen,
   Auswertung von Kundenanfragen über alle Bereiche, gemeinsame Merkliste
@@ -20,7 +21,7 @@ INHALT DES ORDNERS
   sw.js                    Offline-Betrieb
   icons/                   App-Icons
   apps/automatisierung.html, kommunikation.html, relais.html, trennverstaerker.html,
-       sicherheit.html, systemverkabelung.html
+       sicherheit.html, systemverkabelung.html, dienstleistungen.html
   apps/ansprechpartner/    Ansprechpartner-Suche
        index.html, bilder/ (Beispielfotos), daten-beispiel.xlsx
 
@@ -32,7 +33,7 @@ BEREITSTELLEN & INSTALLIEREN
   Hinweis: Per Doppelklick (file://) blockiert der Browser die Verbindung
   zwischen Startseite und Produkthelfern (Suche → Produkt öffnen, Merkliste).
   Für die Nutzung ohne Server die Einzeldatei
-  Produkthelfer_Automation_V01_04.html verwenden.
+  Produkthelfer_Automation_V01_06.html verwenden.
 
 APPS AKTUALISIEREN
   Neue Version einer App unter demselben Dateinamen in „apps/“ ablegen und
