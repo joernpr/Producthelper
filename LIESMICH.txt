@@ -1,4 +1,4 @@
-PRODUKTHELFER AUTOMATION – INSTALLIERBARE APP, VERSION V01.09
+PRODUKTHELFER AUTOMATION – INSTALLIERBARE APP, VERSION V01.10
 ================================================================
 
 FUNKTION
@@ -38,7 +38,16 @@ BEREITSTELLEN & INSTALLIEREN
   Hinweis: Per Doppelklick (file://) blockiert der Browser die Verbindung
   zwischen Startseite und Produkthelfern (Suche → Produkt öffnen, Merkliste).
   Für die Nutzung ohne Server die Einzeldatei
-  Produkthelfer_Automation_V01_09.html verwenden.
+  Produkthelfer_Automation_V01_10.html verwenden.
+
+SEMINARTERMINE TAGESAKTUELL (Dienstleistungen)
+  Die App blendet vergangene Termine automatisch aus. Liegt neben index.html
+  eine Datei termine.json, lädt die App beim Öffnen die Termine daraus.
+  Diese Datei erzeugt die GitHub Action „Termine aktualisieren“ jede Nacht
+  automatisch (Dateien .github/workflows/termine.yml und scripts/termine.py
+  aus dem Paket „GitHub_Termine“ ins Repository hochladen).
+  Fehlt termine.json oder ist sie nicht erreichbar, gelten die eingebauten
+  Termine.
 
 APPS AKTUALISIEREN
   Neue Gesamtversion erzeugen lassen und index.html + sw.js ersetzen.
