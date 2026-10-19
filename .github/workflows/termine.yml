@@ -1,1 +1,56 @@
+# Aktualisiert jede Nacht die Seminartermine (termine.json) für den Produkthelfer Dienstleistungen.
+# Manuell starten: GitHub > Actions > "Termine aktualisieren" > "Run workflow".
+name: Termine aktualisieren
 
+on:
+  schedule:
+    - cron: '23 3 * * *'   # täglich ca. 04:23/05:23 Uhr deutscher Zeit
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: termine
+  cancel-in-progress: false
+
+jobs:
+  termine:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      # Ordner im Repository, in dem index.html der App liegt ('.' = oberste Ebene)
+      APP_DIR: '.'
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Termine abrufen (direkt)
+        id: plain
+        continue-on-error: true
+        run: python scripts/termine.py "$APP_DIR/termine.json"
+
+      - name: Browser installieren (nur falls der direkte Abruf blockiert wurde)
+        if: steps.plain.outcome == 'failure'
+        run: |
+          pip install playwright==1.47.0
+          python -m playwright install --with-deps chromium
+
+      - name: Termine abrufen (über Browser)
+        if: steps.plain.outcome == 'failure'
+        run: python scripts/termine.py "$APP_DIR/termine.json" --browser
+
+      - name: Änderungen speichern
+        run: |
+          git config user.name "termine-bot"
+          git config user.email "termine-bot@users.noreply.github.com"
+          git add "$APP_DIR/termine.json"
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen."
+          else
+            git commit -m "Termine aktualisiert ($(date +%d.%m.%Y))"
+            git push
+          fi
