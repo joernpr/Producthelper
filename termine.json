@@ -1,0 +1,780 @@
+{
+ "stand": "19.10.2026",
+ "quelle": "https://www.phoenixcontact.com/de-de/events-und-news/events-und-seminare",
+ "events": [
+  {
+   "title": "Hydrogen Technology Expo Europe",
+   "place": "Hamburg, Deutschland",
+   "start": "20.10.2026",
+   "end": "22.10.2026",
+   "desc": "Auf der Hydrogen Technology Expo Europe in Hamburg zeigen wir, wie leistungsfähige Konnektivität, automatisierte Prozesse und robuste Energieinfrastruktur den Weg in eine skalierbare und effiziente Wasserstoffwirtschaft ebnen.",
+   "u": "https://www.hydrogen-worldexpo.com/",
+   "typ": "exploreEvent"
+  },
+  {
+   "title": "E-Konstruktion trifft Werkstatt - wie Vorsprung entsteht",
+   "place": "Landsberg am Lech, Deutschland",
+   "start": "20.10.2026",
+   "end": null,
+   "desc": "Erleben Sie in unserem „Application Center Schaltschrankbau“, wie durch Integration von Engineering- und Fertigungstools Ihr Unternehmensvorsprung entsteht. Zusammen mit unserem Partner EPLAN zeigen wir, wie man Konstruktionsprozesse optimiert und Fertigungsprozesse beschleunigt.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8878&sp_id=1",
+   "typ": "exploreEvent"
+  },
+  {
+   "title": "IO-Link Forum Walldorf-Wiesloch",
+   "place": "Deutschland",
+   "start": "21.10.2026",
+   "end": null,
+   "desc": "Erfahren Sie aus erster Hand, wie moderne IO‑Link‑Technologien zur Effizienzsteigerung, flexiblen Anlagenmodernisierung und zukunftssicheren Vernetzung von Produktionssystemen beitragen – mit praxisnahen Vorträgen, Erfahrungsberichten aus der Industrie und direktem Austausch mit Experten und Herstellern.",
+   "u": "https://io-link.com/events/event-detail/io-link-forum-walldorf-wiesloch-key-to-modernizatio?deepl=DE",
+   "typ": "exploreEvent"
+  },
+  {
+   "title": "Überspannungsschutz in elektrischen Anlagen",
+   "place": "Oberschleißheim, Deutschland",
+   "start": "22.10.2026",
+   "end": null,
+   "desc": "Ein durchdachtes Überspannungsschutzkonzept schützt sensible Technik, vermeidet Ausfälle und steigert die Anlagenverfügbarkeit.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8600&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Industrial Ethernet & Cyber Security",
+   "place": "Bad Pyrmont, Deutschland",
+   "start": "26.10.2026",
+   "end": "28.10.2026",
+   "desc": "Sie brauchen Sicherheit im Umgang mit industriellen Netzwerken? Sie möchten die aktuellen Security-Mechanismen verstehen und zielgerichtet anwenden? Unsere Trainer kommen aus der Automatisierungstechnik und zeigen Ihnen aus der Sicht des Praktikers, was bei der Planung und Inbetriebnahme sicherer Netzwerke zu beachten ist und wie sie Ihre Anlage gegen Cyberangriffe absichern.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8337&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "NFPA 79: Maschinen für den nordamerikanischen Markt (UL 2011)",
+   "place": "Online, Deutschland",
+   "start": "27.10.2026",
+   "end": null,
+   "desc": "Erfahren Sie die wichtigsten Anforderungen nach NFPA 79 und UL 2011 zum Aufbau von Maschinen für den nordamerikanischen Markt.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7739&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "23. EMV-Industrieseminar",
+   "place": "Magdeburg, Deutschland",
+   "start": "03.11.2026",
+   "end": null,
+   "desc": "EMV-Sicherheit wirtschaftlich und effektiv in der Praxis umsetzen – Im Blickwinkel von Automatisierung, KI-Anwendungen, Nutzung hoher Frequenzen, Defence-Technologien sowie weiteren aktuellen Anforderungen der EMV.",
+   "u": "https://www.emv.ovgu.de/Industrie/EMV_Industrieseminare-p-694.html",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Cyber Security Basiswissen CRA - für Entwicklungs‑ und Projektteams",
+   "place": "Online, Deutschland",
+   "start": "03.11.2026",
+   "end": "04.11.2026",
+   "desc": "Der Cyber Resilience Act (CRA) schafft einen neuen Rechtsrahmen für die Cyber Security vernetzter Produkte und stellt Entwicklungs- und Projektteams vor neue technische, organisatorische und regulatorische Herausforderungen.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8818&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Planerforum",
+   "place": "Bielefeld, Deutschland",
+   "start": "03.11.2026",
+   "end": "04.11.2026",
+   "desc": "An zwei Tagen bieten wir Ihnen ein vielfältiges Programm aus hochkarätigen Fachvorträgen, praxisnahen Workshops, Live‑Demonstrationen und exklusiven Einblicken in aktuelle Technologien.",
+   "u": "https://event.phoenixcontact.com/Planerforum2026",
+   "typ": "exploreEvent"
+  },
+  {
+   "title": "FS Technician for Machinery mit TÜV Rheinland-Zertifikat",
+   "place": "Bad Pyrmont, Deutschland",
+   "start": "09.11.2026",
+   "end": "13.11.2026",
+   "desc": "Werden Sie zum TÜV-zertifizierten Experten der funktionalen Sicherheit und lernen Sie alles rund um die CE-Kennzeichnung von Maschinen.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7730&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Certified PROFINET Engineer",
+   "place": "Bad Pyrmont, Deutschland",
+   "start": "09.11.2026",
+   "end": "11.11.2026",
+   "desc": "Sie brauchen Sicherheit im Umgang mit den von der PROFINET-Nutzerorganisation definierten Standards? Unsere Trainer zeigen Ihnen, was bei der Planung, Programmierung und Inbetriebnahme von PROFINET-Systemen zu beachten ist.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8098&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Grundlagen Industrial Ethernet",
+   "place": "Online, Deutschland",
+   "start": "10.11.2026",
+   "end": null,
+   "desc": "In diesem Webinar vermitteln wir Ihnen die Grundlagen von Industrial Ethernet. Sie erfahren, wie Managed Switches optimal in Automatisierungsanwendungen eingesetzt werden und wie Sie Netzwerke hinsichtlich Performance und Verfügbarkeit verbessern. Darüber hinaus erhalten Sie wertvolle Tipps zur Auswahl der passenden Netzwerkinfrastruktur für PROFINET, EtherNet/IP und weitere Ethernet-basierte Anwendungen.",
+   "u": "https://events.teams.microsoft.com/event/3a0d57c5-ff36-47b0-9abd-91490032a92d@6868843b-f012-4c95-a18e-bab826cca9ac",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "E-Konstruktion trifft Werkstatt. So entsteht Vorsprung!",
+   "place": "Landsberg am Lech, Deutschland",
+   "start": "10.11.2026",
+   "end": null,
+   "desc": "Erleben Sie in unserem Application Center Schaltschrankbau, wie durch das Zusammenspiel von Engineering- und Fertigungstools Ihr Unternehmensvorsprung entsteht. Zusammen mit unserem Partner Zuken zeigen wir, wie man Konstruktionsprozesse optimiert und Fertigungsprozesse beschleunigen kann.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8885&sp_id=1",
+   "typ": "exploreEvent"
+  },
+  {
+   "title": "electronica 2026",
+   "place": "München, Deutschland",
+   "start": "10.11.2026",
+   "end": "13.11.2026",
+   "desc": "Erleben Sie auf der electronica 2026 in München zukunftsweisende Lösungen für Elektrifizierung, Vernetzung und Automatisierung.",
+   "u": "https://www.phoenixcontact.com/de-de/electronica-messe",
+   "typ": "exploreEvent"
+  },
+  {
+   "title": "Wir machen Fernwartung einfach - mit der neuen mGuard secure Cloud",
+   "place": "Online, Deutschland",
+   "start": "11.11.2026",
+   "end": null,
+   "desc": "Das Webinar ermöglicht Ihnen den einfachen Einstieg in das Thema Fernwartung über das Internet. In unserem 2-stündigen Webinar vermitteln wir Ihnen Grundlagen zur industriellen Kommunikation via Internet, sowie IP- und VPN-Grundlagen.",
+   "u": "https://events.teams.microsoft.com/event/ec85e4d6-9897-469b-9be9-6810b1e96c7b@6868843b-f012-4c95-a18e-bab826cca9ac",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "CE‑konformer Schutz gegen Korrumpierung – Umsetzung nach prEN 50742",
+   "place": "Online, Deutschland",
+   "start": "11.11.2026",
+   "end": null,
+   "desc": "Mit der neuen Maschinenverordnung werden erstmals verbindliche Anforderungen an den Schutz von Maschinen und Anlagen gegen Korrumpierung und Cyberangriffe gestellt.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8810&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Emalytics Basic Training",
+   "place": "Online, Deutschland",
+   "start": "12.11.2026",
+   "end": "25.11.2026",
+   "desc": "Erlernen Sie die Automatisierung und Visualisierung eines kompletten Gebäudes mit dem Gebäudemanagementsystem Emalytics und werden Sie zum qualiﬁzierten Emalytics-Anwender.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8023&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "OT-Security mit mGuard - Routing und Firewall",
+   "place": "Online, Deutschland",
+   "start": "12.11.2026",
+   "end": null,
+   "desc": "In unserem 2-stündigen Webinar vermitteln wir Ihnen die Grundlagen anhand von praktischen Beispielen und Live-Demos. Wir demonstrieren Schritt für Schritt die Basis-Funktionen eines mGuard-Routers incl. seiner Security-Funktionen. Dabei werden exemplarisch Verbindungen zwischen mehreren Ethernet-Netzwerken aufgebaut.",
+   "u": "https://events.teams.microsoft.com/event/87f35d78-d563-438c-963f-ecdf188f9549@6868843b-f012-4c95-a18e-bab826cca9ac",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Cyber Security Basiswissen NIS‑2 für Betreiber",
+   "place": "Online, Deutschland",
+   "start": "17.11.2026",
+   "end": null,
+   "desc": "Die NIS2-Richtlinie verschärft die Anforderungen an die Cyber Security von Betreibern kritischer und wichtiger Unternehmen als auch kommunaler Versorgungsunternehmen und macht Informationssicherheit zu einer zentralen Organisationsaufgabe.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8805&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "CE‑konforme elektrische Ausrüstung – Umsetzung nach Stand der Technik",
+   "place": "",
+   "start": "17.11.2026",
+   "end": "18.11.2026",
+   "desc": "Die elektrische Ausrüstung von Maschinen und Anlagen ist ein entscheidender Baustein für die CE-Konformität und die sichere Inbetriebnahme.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8806&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Cyber Resilience Act umsetzen – für Hersteller von Maschinen und Anlagen",
+   "place": "Online, Deutschland",
+   "start": "17.11.2026",
+   "end": "26.11.2026",
+   "desc": "Der Cyber Resilience Act (CRA) stellt Hersteller von Maschinen und Anlagen vor die Aufgabe, Cyber Security systematisch in Entwicklung, Konformitätsbewertung und Produktpflege zu integrieren.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8819&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "GET NORD",
+   "place": "Hamburg, Deutschland",
+   "start": "19.11.2026",
+   "end": "21.11.2026",
+   "desc": "Wir zeigen, wie moderne Gebäudeautomation, Energietechnik, Ladeinfrastruktur und smarte Vernetzung zukunftsfähige, energieeffiziente Gebäudesysteme ermöglichen.",
+   "u": "https://www.phoenixcontact.com/de-de/get-nord-ticket",
+   "typ": "exploreEvent"
+  },
+  {
+   "title": "SPS 2026",
+   "place": "Nürnberg, Deutschland",
+   "start": "24.11.2026",
+   "end": "26.11.2026",
+   "desc": "Besuchen Sie uns vom 24. – 26. November in Halle 9, Stand 310 und erleben Sie, wie offene Technologien, intelligente Lösungen und ganzheitliche Security die industrielle Automatisierung zukunftsfähig machen.",
+   "u": "https://www.phoenixcontact.com/de-de/sps-messe",
+   "typ": "exploreEvent"
+  },
+  {
+   "title": "PLCnext Engineer – Das Programmierwerkzeug",
+   "place": "Online, Deutschland",
+   "start": "30.11.2026",
+   "end": "03.12.2026",
+   "desc": "Erlernen Sie die Erstellung von IEC 61131 Projekten mit PLCnext Engineer Sie haben schon erste Erfahrungen in der SPS-Programmierung gesammelt und möchten nun den Umgang mit PLCnext Engineer kennenlernen? Dann sind Sie bei diesem Kurs richtig.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8093&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Funktionale Sicherheit gemäß EN ISO 13849-1:2023 / Schwerpunkt Hardware",
+   "place": "Bad Pyrmont, Deutschland",
+   "start": "01.12.2026",
+   "end": "02.12.2026",
+   "desc": "Erlernen Sie die einfache Umsetzung der Hardware-Anforderungen der EN ISO 13849-1:2023",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8413&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Gefährdungsbeurteilung und Risikobeurteilung",
+   "place": "Online, Deutschland",
+   "start": "02.12.2026",
+   "end": null,
+   "desc": "Lernen Sie die Thematiken Gefährdungsbeurteilung nach Betriebssicherheitsverordnung und Risikobeurteilung nach Maschinenrichtline und deren Unterschiede kennen.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7729&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Funktionale Sicherheit in der Prozessindustrie nach IEC 61511",
+   "place": "Böblingen, Deutschland",
+   "start": "03.12.2026",
+   "end": null,
+   "desc": "Gestalten Sie funktional sichere Prozessanlagen durch die Anwendung der IEC 61511.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7732&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "PLCnext Engineer – Der Safety-Programmierer",
+   "place": "Bad Pyrmont, Deutschland",
+   "start": "08.12.2026",
+   "end": "09.12.2026",
+   "desc": "Erstellen Sie gut strukturierte und normenkonforme Safety-Programme und projektieren Sie zuverlässige PROFIsafe-Systeme.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7897&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Security in der Industrie/OT",
+   "place": "Online, Deutschland",
+   "start": "09.12.2026",
+   "end": "10.12.2026",
+   "desc": "Erleben Sie die grundsätzlichen Anforderungen der industriellen Informationssicherheit und wie Sie diese mithilfe der IEC 62443 realisieren.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7701&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "OT-Security Grundlagenschulung",
+   "place": "Online, Deutschland",
+   "start": "09.12.2026",
+   "end": null,
+   "desc": "Erleben Sie die grundsätzlichen Anforderungen an die Cyber Security von Automatisierungsanlagen und deren Notwendigkeit im Bereich der OT-Security.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7751&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "CE‑konformer Schutz gegen Korrumpierung – Umsetzung nach prEN 50742",
+   "place": "Online, Deutschland",
+   "start": "09.12.2026",
+   "end": null,
+   "desc": "Mit der neuen Maschinenverordnung werden erstmals verbindliche Anforderungen an den Schutz von Maschinen und Anlagen gegen Korrumpierung und Cyberangriffe gestellt.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8810&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "NIS-2 Geschäftsleitungsschulung",
+   "place": "Online, Deutschland",
+   "start": "11.12.2026",
+   "end": null,
+   "desc": "Erfahren Sie, wie Sie als Geschäftsleitung die Anforderungen der NIS-2-Richtlinie und des deutschen Umsetzungsgesetzes praxisnah und verständlich erfüllen.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8533&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Emalytics Basic Training",
+   "place": "Bad Pyrmont, Deutschland",
+   "start": "12.01.2027",
+   "end": "27.01.2027",
+   "desc": "Erlernen Sie die Automatisierung und Visualisierung eines kompletten Gebäudes mit dem Gebäudemanagementsystem Emalytics und werden Sie zum qualiﬁzierten Emalytics-Anwender.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8023&modus=",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "CE-Compliance, was MVO & CRA wirklich bedeuten – Orientierung für Entscheider",
+   "place": "",
+   "start": "19.01.2027",
+   "end": null,
+   "desc": "CE-Compliance ist weit mehr als eine technische Pflicht – sie ist eine unternehmerische Führungsaufgabe.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8817&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Grundlagen der Schutztechnik + Expertenschulung Schutztechnik",
+   "place": "Velbert, Deutschland",
+   "start": "19.01.2027",
+   "end": "21.01.2027",
+   "desc": "Lernen Sie die Grundlagen der Schutztechnik und unsere Schutzgeräte und Software im Detail kennen",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7831&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Grundlagen der Schutztechnik",
+   "place": "Velbert, Deutschland",
+   "start": "19.01.2027",
+   "end": null,
+   "desc": "Lernen Sie die Grundlagen der Schutztechnik kennen",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7821&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Expertenschulung Schutztechnik",
+   "place": "Bad Pyrmont, Deutschland",
+   "start": "20.01.2027",
+   "end": "21.01.2027",
+   "desc": "Lernen Sie unsere Schutzgeräte und Software im Detail kennen",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7830&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "TÜV Rheinland Cyber Security Training Program – Cyber Security Technician",
+   "place": "Böblingen, Deutschland",
+   "start": "25.01.2027",
+   "end": "29.01.2027",
+   "desc": "Werden Sie zum von TÜV Rheinland zertifizierten Experten für die Implementierung von Cyber Security Funktionen. Erlernen Sie notwendige Grundlagen der Cyber Security für Industrial Automation & Control Systems (IACS) in Theorie und Praxis. Weisen Sie dieses Wissen durch ein international anerkanntes Zertifikat von TÜV Rheinland nach.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7746&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "CE-Basiswissen im Maschinen- und Anlagenbau für Projektleiter und Konstrukteure",
+   "place": "",
+   "start": "27.01.2027",
+   "end": null,
+   "desc": "Die CE-Kennzeichnung ist ein zentraler Bestandteil der rechtssicheren Entwicklung und Bereitstellung von Maschinen und Anlagen.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8821&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Security in der Industrie/OT – Grundlagen IEC 62443",
+   "place": "Online, Deutschland",
+   "start": "09.02.2027",
+   "end": "10.02.2027",
+   "desc": "Erleben Sie die grundsätzlichen Anforderungen der industriellen Informationssicherheit und wie Sie diese mithilfe der IEC 62443 realisieren.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7701&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "OT-Security Grundlagenschulung",
+   "place": "Online, Deutschland",
+   "start": "10.02.2027",
+   "end": null,
+   "desc": "Erleben Sie die grundsätzlichen Anforderungen an die Cyber Security von Automatisierungsanlagen und deren Notwendigkeit im Bereich der OT-Security.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7751&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "OT-Security Grundlagenschulung",
+   "place": "Online, Deutschland",
+   "start": "10.02.2027",
+   "end": null,
+   "desc": "Erleben Sie die grundsätzlichen Anforderungen an die Cyber Security von Automatisierungsanlagen und deren Notwendigkeit im Bereich der OT-Security.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7751&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "NIS-2 Geschäftsleitungsschulung",
+   "place": "Online, Deutschland",
+   "start": "12.02.2027",
+   "end": null,
+   "desc": "Erfahren Sie, wie Sie als Geschäftsleitung die Anforderungen der NIS-2-Richtlinie und des deutschen Umsetzungsgesetzes praxisnah und verständlich erfüllen.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8533&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "NIS-2 in der Praxis für Betreiber, OT/IT & KRITIS – von der Pflicht zum Nachweis",
+   "place": "",
+   "start": "17.02.2027",
+   "end": "18.02.2027",
+   "desc": "Die NIS-2-Richtlinie stellt Betreiber kritischer und wichtiger Einrichtungen vor neue organisatorische, technische und rechtliche Anforderungen.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8811&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Cyber Resilience Act und IEC 62443",
+   "place": "Böblingen, Deutschland",
+   "start": "23.02.2027",
+   "end": null,
+   "desc": "Dieses Seminar vermittelt die Grundlagen des CRA, zeigt praxisnahe Umsetzungsstrategien und stellt die Verbindung zu etablierten Sicherheitsstandards wie IEC 62443 her. Ziel ist es, Führungskräfte und Fachkräfte auf die kommenden Anforderungen vorzubereiten und Orientierung für die Umsetzung im Unternehmen zu geben.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8490&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "CE‑konforme elektrische Ausrüstung – Umsetzung nach Stand der Technik",
+   "place": "",
+   "start": "02.03.2027",
+   "end": "03.03.2027",
+   "desc": "Die elektrische Ausrüstung von Maschinen und Anlagen ist ein entscheidender Baustein für die CE-Konformität und die sichere Inbetriebnahme.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8806&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Zertifiziertes Niagara 4 TCP Training (Tridium Certified)",
+   "place": "Paderborn, Deutschland",
+   "start": "09.03.2027",
+   "end": "19.03.2027",
+   "desc": "Tauchen Sie ein in die Welt des Niagara Frameworks! Phoenix Contact bietet Ihnen ein praxisorientiertes Trainingsformat – abgestimmt auf Ihre Ziele und Vorkenntnisse!",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8487&modus=",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "TÜV Rheinland Cyber Security Training Program - Fundamentals of Cyber Security",
+   "place": "Paderborn, Deutschland",
+   "start": "15.03.2027",
+   "end": "18.03.2027",
+   "desc": "Ihr Start auf dem Weg zum anerkannten Experten für Cyber Security in der industriellen Automatisierung.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7731&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "CE-Compliance, was MVO & CRA wirklich bedeuten – Orientierung für Entscheider",
+   "place": "",
+   "start": "07.04.2027",
+   "end": null,
+   "desc": "CE-Compliance ist weit mehr als eine technische Pflicht – sie ist eine unternehmerische Führungsaufgabe.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8817&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Seminar - FS Technician for Machinery mit TÜV Rheinland-Zertifikat",
+   "place": "Bad Pyrmont, Deutschland",
+   "start": "12.04.2027",
+   "end": "16.04.2027",
+   "desc": "Werden Sie zum TÜV- zertifizierten Experten der funktionalen Sicherheit und lernen Sie alles rund um die CE- Kennzeichnung von Maschinen.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7730&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "CE-Basiswissen im Schaltschrankbau für Projektleiter und Konstrukteure",
+   "place": "",
+   "start": "15.04.2027",
+   "end": null,
+   "desc": "Die CE-Kennzeichnung ist ein wesentlicher Bestandteil der rechtssicheren Entwicklung und Bereitstellung von Schaltanlagen und Schaltschränken.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8804&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "CE-konforme Elektrokonstruktion – Funktionale Sicherheit nach Stand der Technik",
+   "place": "",
+   "start": "15.04.2027",
+   "end": "16.04.2027",
+   "desc": "Erlernen Sie die einfache Umsetzung der Hardware-Anforderungen der EN ISO 13849-1:2023",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8809&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Messungen an Erdungsanlagen",
+   "place": "Schieder, Deutschland",
+   "start": "20.04.2027",
+   "end": null,
+   "desc": "In diesem Praxisseminar werden unterschiedliche Messmethoden zu Ermittlung des Erderwiderstands vorgestellt und anschließend in einem Mess-Praktikum auf der Versuchsanlage durchgeführt. Dabei steht das Kennenlernen der Stärken und Schwächen der unterschiedlichen Messmethoden im Vordergrund.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7735&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Cyber Security Basiswissen CRA - für Entwicklungs‑ und Projektteams",
+   "place": "",
+   "start": "20.04.2027",
+   "end": null,
+   "desc": "Der Cyber Resilience Act (CRA) schafft einen neuen Rechtsrahmen für die Cyber Security vernetzter Produkte und stellt Entwicklungs- und Projektteams vor neue technische, organisatorische und regulatorische Herausforderungen.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8818&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Security in der Industrie/OT – Grundlagen IEC 62443",
+   "place": "Online, Deutschland",
+   "start": "28.04.2027",
+   "end": "29.04.2027",
+   "desc": "Erleben Sie die grundsätzlichen Anforderungen der industriellen Informationssicherheit und wie Sie diese mithilfe der IEC 62443 realisieren.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7701&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "OT-Security Grundlagenschulung",
+   "place": "Online, Deutschland",
+   "start": "28.04.2027",
+   "end": null,
+   "desc": "Erleben Sie die grundsätzlichen Anforderungen an die Cyber Security von Automatisierungsanlagen und deren Notwendigkeit im Bereich der OT-Security.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7751&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "NIS-2 Geschäftsleitungsschulung",
+   "place": "Online, Deutschland",
+   "start": "30.04.2027",
+   "end": null,
+   "desc": "Erfahren Sie, wie Sie als Geschäftsleitung die Anforderungen der NIS-2-Richtlinie und des deutschen Umsetzungsgesetzes praxisnah und verständlich erfüllen.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8533&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "CE‑konforme Software – Funktionale Sicherheit nach Stand der Technik",
+   "place": "",
+   "start": "04.05.2027",
+   "end": "05.05.2027",
+   "desc": "Erlernen Sie die einfache Umsetzung der Software-Anforderungen der EN ISO 13849-1:2023",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8808&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "TÜV Rheinland Cyber Security Training Program – Cyber Security Technician",
+   "place": "Paderborn, Deutschland",
+   "start": "10.05.2027",
+   "end": "14.05.2027",
+   "desc": "Werden Sie zum von TÜV Rheinland zertifizierten Experten für die Implementierung von Cyber Security Funktionen. Erlernen Sie notwendige Grundlagen der Cyber Security für Industrial Automation & Control Systems (IACS) in Theorie und Praxis. Weisen Sie dieses Wissen durch ein international anerkanntes Zertifikat von TÜV Rheinland nach.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7746&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "CE-Basiswissen im Maschinen- und Anlagenbau für Projektleiter und Konstrukteure",
+   "place": "",
+   "start": "19.05.2027",
+   "end": "20.05.2027",
+   "desc": "Die CE-Kennzeichnung ist ein zentraler Bestandteil der rechtssicheren Entwicklung und Bereitstellung von Maschinen und Anlagen.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8821&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Emalytics View Training",
+   "place": "Online, Deutschland",
+   "start": "24.05.2027",
+   "end": "25.05.2027",
+   "desc": "Lernen Sie, wie Sie mit Emalytics View Ihre Projekte schneller umsetzen und dem Kundenanspruch gerechter werden können.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8505&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Zertifiziertes Niagara 4 TCP Training (Tridium Certified)",
+   "place": "Paderborn, Deutschland",
+   "start": "01.06.2027",
+   "end": "11.06.2027",
+   "desc": "Tauchen Sie ein in die Welt des Niagara Frameworks! Phoenix Contact bietet Ihnen ein praxisorientiertes Trainingsformat – abgestimmt auf Ihre Ziele und Vorkenntnisse!",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8487&modus=",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Cyber Resilience Act und IEC 62443",
+   "place": "Paderborn, Deutschland",
+   "start": "07.09.2027",
+   "end": null,
+   "desc": "Dieses Seminar vermittelt die Grundlagen des CRA, zeigt praxisnahe Umsetzungsstrategien und stellt die Verbindung zu etablierten Sicherheitsstandards wie IEC 62443 her. Ziel ist es, Führungskräfte und Fachkräfte auf die kommenden Anforderungen vorzubereiten und Orientierung für die Umsetzung im Unternehmen zu geben.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8490&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Zertifiziertes Niagara 4 TCP Training (Tridium Certified)",
+   "place": "",
+   "start": "07.09.2027",
+   "end": "17.09.2027",
+   "desc": "Tauchen Sie ein in die Welt des Niagara Frameworks! Phoenix Contact bietet Ihnen ein praxisorientiertes Trainingsformat – abgestimmt auf Ihre Ziele und Vorkenntnisse!",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8487&modus=",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "CE-Basiswissen im Maschinen- und Anlagenbau für Projektleiter und Konstrukteure",
+   "place": "Bad Pyrmont, Deutschland",
+   "start": "07.09.2027",
+   "end": null,
+   "desc": "Die CE-Kennzeichnung ist ein zentraler Bestandteil der rechtssicheren Entwicklung und Bereitstellung von Maschinen und Anlagen.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8821&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Cyber Resilience Act umsetzen",
+   "place": "",
+   "start": "07.09.2027",
+   "end": "08.09.2027",
+   "desc": "Der Cyber Resilience Act (CRA) stellt Hersteller von Maschinen und Anlagen vor die Aufgabe, Cyber Security systematisch in Entwicklung, Konformitätsbewertung und Produktpflege zu integrieren.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8819&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Cyber Security Basiswissen CRA",
+   "place": "Bad Pyrmont, Deutschland",
+   "start": "07.09.2027",
+   "end": null,
+   "desc": "Der Cyber Resilience Act (CRA) schafft einen neuen Rechtsrahmen für die Cyber Security vernetzter Produkte und stellt Entwicklungs- und Projektteams vor neue technische, organisatorische und regulatorische Herausforderungen.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8818&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Messungen an Erdungsanlagen-Praxisseminar",
+   "place": "Schieder, Deutschland",
+   "start": "08.09.2027",
+   "end": null,
+   "desc": "In diesem Praxisseminar werden unterschiedliche Messmethoden zu Ermittlung des Erderwiderstands vorgestellt und anschließend in einem Mess-Praktikum auf der Versuchsanlage durchgeführt. Dabei steht das Kennenlernen der Stärken und Schwächen der unterschiedlichen Messmethoden im Vordergrund.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7735&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "CE-Compliance, was MVO & CRA wirklich bedeuten – Orientierung für Entscheider",
+   "place": "",
+   "start": "14.09.2027",
+   "end": null,
+   "desc": "CE-Compliance ist weit mehr als eine technische Pflicht – sie ist eine unternehmerische Führungsaufgabe.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8817&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "TÜV Rheinland Cyber Security Training Program – Cyber Security Technician",
+   "place": "Paderborn, Deutschland",
+   "start": "20.09.2027",
+   "end": "24.09.2027",
+   "desc": "Werden Sie zum von TÜV Rheinland zertifizierten Experten für die Implementierung von Cyber Security Funktionen. Erlernen Sie notwendige Grundlagen der Cyber Security für Industrial Automation & Control Systems (IACS) in Theorie und Praxis. Weisen Sie dieses Wissen durch ein international anerkanntes Zertifikat von TÜV Rheinland nach.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7746&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "CE‑konforme elektrische Ausrüstung – Umsetzung nach Stand der Technik",
+   "place": "",
+   "start": "21.09.2027",
+   "end": "22.09.2027",
+   "desc": "Die elektrische Ausrüstung von Maschinen und Anlagen ist ein entscheidender Baustein für die CE-Konformität und die sichere Inbetriebnahme.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8806&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "CE-Basiswissen im Schaltschrankbau für Projektleiter und Konstrukteure",
+   "place": "",
+   "start": "01.10.2027",
+   "end": null,
+   "desc": "Die CE-Kennzeichnung ist ein wesentlicher Bestandteil der rechtssicheren Entwicklung und Bereitstellung von Schaltanlagen und Schaltschränken.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8804&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Security in der Industrie/OT – Grundlagen IEC 62443",
+   "place": "Online, Deutschland",
+   "start": "05.10.2027",
+   "end": "06.10.2027",
+   "desc": "Erleben Sie die grundsätzlichen Anforderungen der industriellen Informationssicherheit und wie Sie diese mithilfe der IEC 62443 realisieren.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7701&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "NIS-2 Geschäftsleitungsschulung",
+   "place": "Online, Deutschland",
+   "start": "08.10.2027",
+   "end": null,
+   "desc": "Erfahren Sie, wie Sie als Geschäftsleitung die Anforderungen der NIS-2-Richtlinie und des deutschen Umsetzungsgesetzes praxisnah und verständlich erfüllen.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8533&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "TÜV Rheinland Cyber Security Training Program - Fundamentals of Cyber Security",
+   "place": "Böblingen, Deutschland",
+   "start": "25.10.2027",
+   "end": "28.10.2027",
+   "desc": "Ihr Start auf dem Weg zum anerkannten Experten für Cyber Security in der industriellen Automatisierung.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7731&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "CE-Basiswissen im Maschinen- und Anlagenbau für Projektleiter und Konstrukteure",
+   "place": "",
+   "start": "03.11.2027",
+   "end": "04.11.2027",
+   "desc": "Die CE-Kennzeichnung ist ein zentraler Bestandteil der rechtssicheren Entwicklung und Bereitstellung von Maschinen und Anlagen.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8821&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "CE-Basiswissen im Maschinen- und Anlagenbau für Projektleiter und Konstrukteure",
+   "place": "Bad Pyrmont, Deutschland",
+   "start": "08.11.2027",
+   "end": null,
+   "desc": "Die CE-Kennzeichnung ist ein zentraler Bestandteil der rechtssicheren Entwicklung und Bereitstellung von Maschinen und Anlagen.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8821&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Emalytics View Training",
+   "place": "Online, Deutschland",
+   "start": "09.11.2027",
+   "end": "10.11.2027",
+   "desc": "Lernen Sie, wie Sie mit Emalytics View Ihre Projekte schneller umsetzen und dem Kundenanspruch gerechter werden können. Diese Visualisierung für die Management und Bedieneinrichtung lässt sich nahtlos in das Niagara Framework integrieren. Lernen Sie, wie sie eine Visualierung innerhalb kürzester Zeit mit dem EmalyticsView Assistenten aufbauen und strukturieren.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8505&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "CE‑konforme Software – Funktionale Sicherheit nach Stand der Technik",
+   "place": "",
+   "start": "09.11.2027",
+   "end": "10.11.2027",
+   "desc": "Erlernen Sie die einfache Umsetzung der Software-Anforderungen der EN ISO 13849-1:2023",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8808&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "CE-konforme Elektrokonstruktion – Funktionale Sicherheit nach Stand der Technik",
+   "place": "Bad Pyrmont, Deutschland",
+   "start": "11.11.2027",
+   "end": "12.11.2027",
+   "desc": "Erlernen Sie die einfache Umsetzung der Hardware-Anforderungen der EN ISO 13849-1:2023",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8809&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Emalytics Basic Training",
+   "place": "",
+   "start": "23.11.2027",
+   "end": "08.12.2027",
+   "desc": "Erlernen Sie die Automatisierung und Visualisierung eines kompletten Gebäudes mit dem Gebäudemanagementsystem Emalytics und werden Sie zum qualiﬁzierten Emalytics-Anwender.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8023&modus=",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "TÜV Rheinland Cyber Security Training Program – Cyber Security Technician",
+   "place": "Böblingen, Deutschland",
+   "start": "29.11.2027",
+   "end": "03.12.2027",
+   "desc": "Werden Sie zum von TÜV Rheinland zertifizierten Experten für die Implementierung von Cyber Security Funktionen. Erlernen Sie notwendige Grundlagen der Cyber Security für Industrial Automation & Control Systems (IACS) in Theorie und Praxis. Weisen Sie dieses Wissen durch ein international anerkanntes Zertifikat von TÜV Rheinland nach.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7746&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "CE-Basiswissen im Schaltschrankbau für Projektleiter und Konstrukteure",
+   "place": "",
+   "start": "01.12.2027",
+   "end": null,
+   "desc": "Die CE-Kennzeichnung ist ein wesentlicher Bestandteil der rechtssicheren Entwicklung und Bereitstellung von Schaltanlagen und Schaltschränken.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8804&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Security in der Industrie/OT – Grundlagen IEC 62443",
+   "place": "Online, Deutschland",
+   "start": "08.12.2027",
+   "end": "09.12.2027",
+   "desc": "Erleben Sie die grundsätzlichen Anforderungen der industriellen Informationssicherheit und wie Sie diese mithilfe der IEC 62443 realisieren.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7701&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "OT-Security Grundlagenschulung",
+   "place": "Online, Deutschland",
+   "start": "08.12.2027",
+   "end": null,
+   "desc": "Erleben Sie die grundsätzlichen Anforderungen an die Cyber Security von Automatisierungsanlagen und deren Notwendigkeit im Bereich der OT-Security.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7751&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "NIS-2 Geschäftsleitungsschulung",
+   "place": "Online, Deutschland",
+   "start": "10.12.2027",
+   "end": null,
+   "desc": "Erfahren Sie, wie Sie als Geschäftsleitung die Anforderungen der NIS-2-Richtlinie und des deutschen Umsetzungsgesetzes praxisnah und verständlich erfüllen.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8533&sp_id=1",
+   "typ": "seminarDetailPage"
+  }
+ ]
+}
