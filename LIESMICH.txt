@@ -1,0 +1,51 @@
+PRODUKTHELFER AUTOMATION – INSTALLIERBARE APP, VERSION V01.04
+================================================================
+
+FUNKTION
+  Startseite „Automation“ mit einer Kachel je Produkthelfer:
+  - Automatisierung                         (V01.01)
+  - Industrielle Kommunikation              (V02.01)
+  - Relais                                  (V02.00)
+  - Trennverstärker & I/O-Signalrangierung  (V6.2)
+  - Sicherheitsschaltgeräte & Sensoren      (V02.00)
+  - Systemverkabelung                       (V1.0)
+  - Ansprechpartner                         (V02.00)
+  Dazu: Suche mit Alltagsbegriffen, Artikelnummern und Beschreibungen,
+  Auswertung von Kundenanfragen über alle Bereiche, gemeinsame Merkliste
+  (Export Excel/CSV) und Ansprechpartner zu jedem Produkt.
+
+INHALT DES ORDNERS
+  index.html               Startseite „Automation“
+  manifest.webmanifest     App-Beschreibung (Name, Icon, Schnellzugriffe)
+  sw.js                    Offline-Betrieb
+  icons/                   App-Icons
+  apps/automatisierung.html, kommunikation.html, relais.html, trennverstaerker.html,
+       sicherheit.html, systemverkabelung.html
+  apps/ansprechpartner/    Ansprechpartner-Suche
+       index.html, bilder/ (Beispielfotos), daten-beispiel.xlsx
+
+BEREITSTELLEN & INSTALLIEREN
+  Ganzen Ordner per HTTPS bereitstellen (z. B. Intranet, SharePoint-Webserver
+  oder GitHub Pages) und index.html aufrufen.
+  iPad/iPhone: Safari > Teilen > „Zum Home-Bildschirm“.
+  Android/Windows/Mac: Chrome/Edge > „App installieren“.
+  Hinweis: Per Doppelklick (file://) blockiert der Browser die Verbindung
+  zwischen Startseite und Produkthelfern (Suche → Produkt öffnen, Merkliste).
+  Für die Nutzung ohne Server die Einzeldatei
+  Produkthelfer_Automation_V01_04.html verwenden.
+
+APPS AKTUALISIEREN
+  Neue Version einer App unter demselben Dateinamen in „apps/“ ablegen und
+  in sw.js die VERSION erhöhen.
+
+ANSPRECHPARTNER-DATEN
+  Zentrale Datei als „daten.xlsx“ in apps/ansprechpartner/ legen, Fotos in
+  apps/ansprechpartner/bilder/. Ohne eigene Daten werden fiktive
+  Beispieldaten angezeigt (gekennzeichnet).
+  ACHTUNG: Auf einem öffentlichen Server ist daten.xlsx samt Namen,
+  Telefonnummern und Fotos für jeden abrufbar, der die Adresse kennt.
+
+DATENSCHUTZ / ZUGRIFFE
+  Die Apps laden Produktbilder von caas.phoenixcontact.com und verlinken auf
+  phoenixcontact.com. Es werden keine externen Schriften oder Bibliotheken
+  geladen.

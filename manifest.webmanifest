@@ -1,0 +1,59 @@
+{
+ "name": "Produkthelfer Automation",
+ "short_name": "Automation",
+ "description": "Phoenix Contact Produkthelfer: Automatisierung, Kommunikation, Relais, Trennverstärker, Sicherheit, Ansprechpartner",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#ffffff",
+ "theme_color": "#ffffff",
+ "lang": "de",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512-maskable.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ],
+ "shortcuts": [
+  {
+   "name": "Automatisierung",
+   "url": "./index.html#/aut"
+  },
+  {
+   "name": "Industrielle Kommunikation",
+   "url": "./index.html#/ik"
+  },
+  {
+   "name": "Relais",
+   "url": "./index.html#/rel"
+  },
+  {
+   "name": "Trennverstärker & I/O-Signalrangierung",
+   "url": "./index.html#/tv"
+  },
+  {
+   "name": "Sicherheitsschaltgeräte & Sensoren",
+   "url": "./index.html#/ssg"
+  },
+  {
+   "name": "Systemverkabelung",
+   "url": "./index.html#/svk"
+  },
+  {
+   "name": "Ansprechpartner",
+   "url": "./index.html#/ap"
+  }
+ ]
+}
