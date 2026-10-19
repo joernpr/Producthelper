@@ -1,4 +1,4 @@
-PRODUKTHELFER AUTOMATION – INSTALLIERBARE APP, VERSION V01.13
+PRODUKTHELFER AUTOMATION – INSTALLIERBARE APP, VERSION V01.14
 ================================================================
 
 FUNKTION
@@ -16,17 +16,17 @@ FUNKTION
   Auswertung von Kundenanfragen über alle Bereiche, gemeinsame Merkliste
   (Export Excel/CSV) und Ansprechpartner zu jedem Produkt.
 
-INHALT DES ORDNERS
+INHALT DES ORDNERS (alles auf einer Ebene, keine Unterordner)
   index.html               Startseite „Automation“ – enthält ALLE Bereiche
-                           (ab V01.08; diese Datei allein genügt)
-  manifest.webmanifest     App-Beschreibung (Name, Icon, Schnellzugriffe)
   sw.js                    Offline-Betrieb
-  icons/                   App-Icons
-  apps/ (optional, nur noch als Einzelkopien der Bereiche)
-  apps/automatisierung.html, kommunikation.html, relais.html, trennverstaerker.html,
-       sicherheit.html, systemverkabelung.html, dienstleistungen.html
-  apps/ansprechpartner/    Ansprechpartner-Suche
-       index.html, bilder/ (Beispielfotos), daten-beispiel.xlsx
+  manifest.webmanifest     App-Beschreibung (Name, Icon)
+  icon-180.png, icon-192.png, icon-512.png, icon-512-maskable.png   App-Icons
+
+  WICHTIG: Es gibt nur noch EINE index.html. Ältere Pakete enthielten eine
+  zweite index.html (Ansprechpartner) im Unterordner – wurde diese beim
+  Hochladen auf die oberste Ebene gelegt, öffnete die Seite direkt den
+  Ansprechpartner. Alte Dateien (automatisierung.html, relais.html, …,
+  daten-beispiel.xlsx, *.jpg, „index (1).html“) werden nicht mehr benötigt.
 
 BEREITSTELLEN & INSTALLIEREN
   Mindestens index.html, sw.js, manifest.webmanifest und icons/ per HTTPS
@@ -39,7 +39,7 @@ BEREITSTELLEN & INSTALLIEREN
   Hinweis: Per Doppelklick (file://) blockiert der Browser die Verbindung
   zwischen Startseite und Produkthelfern (Suche → Produkt öffnen, Merkliste).
   Für die Nutzung ohne Server die Einzeldatei
-  Produkthelfer_Automation_V01_13.html verwenden.
+  Produkthelfer_Automation_V01_14.html verwenden.
 
 SEMINARTERMINE TAGESAKTUELL (Dienstleistungen)
   Die App blendet vergangene Termine automatisch aus. Liegt neben index.html
