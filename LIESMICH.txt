@@ -1,4 +1,4 @@
-PRODUKTHELFER AUTOMATION – INSTALLIERBARE APP, VERSION V01.06
+PRODUKTHELFER AUTOMATION – INSTALLIERBARE APP, VERSION V01.07
 ================================================================
 
 FUNKTION
@@ -33,7 +33,7 @@ BEREITSTELLEN & INSTALLIEREN
   Hinweis: Per Doppelklick (file://) blockiert der Browser die Verbindung
   zwischen Startseite und Produkthelfern (Suche → Produkt öffnen, Merkliste).
   Für die Nutzung ohne Server die Einzeldatei
-  Produkthelfer_Automation_V01_06.html verwenden.
+  Produkthelfer_Automation_V01_07.html verwenden.
 
 APPS AKTUALISIEREN
   Neue Version einer App unter demselben Dateinamen in „apps/“ ablegen und
