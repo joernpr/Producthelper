@@ -1,4 +1,4 @@
-PRODUKTHELFER AUTOMATION – INSTALLIERBARE APP, VERSION V01.07
+PRODUKTHELFER AUTOMATION – INSTALLIERBARE APP, VERSION V01.09
 ================================================================
 
 FUNKTION
@@ -16,28 +16,34 @@ FUNKTION
   (Export Excel/CSV) und Ansprechpartner zu jedem Produkt.
 
 INHALT DES ORDNERS
-  index.html               Startseite „Automation“
+  index.html               Startseite „Automation“ – enthält ALLE Bereiche
+                           (ab V01.08; diese Datei allein genügt)
   manifest.webmanifest     App-Beschreibung (Name, Icon, Schnellzugriffe)
   sw.js                    Offline-Betrieb
   icons/                   App-Icons
+  apps/ (optional, nur noch als Einzelkopien der Bereiche)
   apps/automatisierung.html, kommunikation.html, relais.html, trennverstaerker.html,
        sicherheit.html, systemverkabelung.html, dienstleistungen.html
   apps/ansprechpartner/    Ansprechpartner-Suche
        index.html, bilder/ (Beispielfotos), daten-beispiel.xlsx
 
 BEREITSTELLEN & INSTALLIEREN
-  Ganzen Ordner per HTTPS bereitstellen (z. B. Intranet, SharePoint-Webserver
-  oder GitHub Pages) und index.html aufrufen.
+  Mindestens index.html, sw.js, manifest.webmanifest und icons/ per HTTPS
+  bereitstellen (z. B. Intranet oder GitHub Pages) und index.html aufrufen.
+  GitHub Pages: Dateien im Repository überschreiben (Add file > Upload files),
+  „Commit changes“, 1–2 Minuten warten, dann Seite mit Strg+F5 neu laden.
+  Unten auf der Startseite muss die neue Versionsnummer stehen.
   iPad/iPhone: Safari > Teilen > „Zum Home-Bildschirm“.
   Android/Windows/Mac: Chrome/Edge > „App installieren“.
   Hinweis: Per Doppelklick (file://) blockiert der Browser die Verbindung
   zwischen Startseite und Produkthelfern (Suche → Produkt öffnen, Merkliste).
   Für die Nutzung ohne Server die Einzeldatei
-  Produkthelfer_Automation_V01_07.html verwenden.
+  Produkthelfer_Automation_V01_09.html verwenden.
 
 APPS AKTUALISIEREN
-  Neue Version einer App unter demselben Dateinamen in „apps/“ ablegen und
-  in sw.js die VERSION erhöhen.
+  Neue Gesamtversion erzeugen lassen und index.html + sw.js ersetzen.
+  Die Startseite wird immer zuerst aus dem Netz geladen; neue Versionen
+  erscheinen beim nächsten Neuladen.
 
 ANSPRECHPARTNER-DATEN
   Zentrale Datei als „daten.xlsx“ in apps/ansprechpartner/ legen, Fotos in
