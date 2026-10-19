@@ -1,8 +1,8 @@
 /* Produkthelfer Automation – Service Worker (Offline-Betrieb)
    Bei jeder Aktualisierung einer App die VERSION erhöhen. */
-const VERSION='V01.12-19.10.2026', CACHE='pc-auto-'+VERSION, DATA='pc-auto-daten';
+const VERSION='V01.13-19.10.2026', CACHE='pc-auto-'+VERSION, DATA='pc-auto-daten';
 const CORE=["./", "./index.html", "./manifest.webmanifest", "./icons/icon-180.png", "./icons/icon-192.png", "./icons/icon-512-maskable.png", "./icons/icon-512.png"];
-self.addEventListener('install',e=>{ e.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE))); self.skipWaiting(); });
+self.addEventListener('install',e=>{ e.waitUntil(caches.open(CACHE).then(c=>Promise.all(CORE.map(u=>c.add(u).catch(()=>{}))))); /* fehlende Dateien (z. B. icons/) verhindern die Installation nicht */ self.skipWaiting(); });
 self.addEventListener('activate',e=>{ e.waitUntil(caches.keys().then(k=>Promise.all(k.filter(x=>x.startsWith('pc-auto-')&&x!==CACHE&&x!==DATA).map(x=>caches.delete(x)))).then(()=>self.clients.claim())); });
 self.addEventListener('fetch',e=>{
   const req=e.request; if(req.method!=='GET') return; const url=new URL(req.url);
