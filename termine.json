@@ -1,5 +1,5 @@
 {
- "stand": "19.10.2026",
+ "stand": "20.10.2026",
  "quelle": "https://www.phoenixcontact.com/de-de/events-und-news/events-und-seminare",
  "events": [
   {
@@ -327,6 +327,15 @@
    "typ": "seminarDetailPage"
   },
   {
+   "title": "CE‑konformer Schutz gegen Korrumpierung – Umsetzung nach prEN 50742",
+   "place": "Online, Deutschland",
+   "start": "20.01.2027",
+   "end": null,
+   "desc": "Mit der neuen Maschinenverordnung werden erstmals verbindliche Anforderungen an den Schutz von Maschinen und Anlagen gegen Korrumpierung und Cyberangriffe gestellt.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8810&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
    "title": "Expertenschulung Schutztechnik",
    "place": "Bad Pyrmont, Deutschland",
    "start": "20.01.2027",
@@ -417,6 +426,15 @@
    "typ": "seminarDetailPage"
   },
   {
+   "title": "CE‑konformer Schutz gegen Korrumpierung – Umsetzung nach prEN 50742",
+   "place": "",
+   "start": "03.03.2027",
+   "end": null,
+   "desc": "Mit der neuen Maschinenverordnung werden erstmals verbindliche Anforderungen an den Schutz von Maschinen und Anlagen gegen Korrumpierung und Cyberangriffe gestellt.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8810&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
    "title": "Zertifiziertes Niagara 4 TCP Training (Tridium Certified)",
    "place": "Paderborn, Deutschland",
    "start": "09.03.2027",
@@ -444,12 +462,30 @@
    "typ": "seminarDetailPage"
   },
   {
+   "title": "Cyber Resilience Act umsetzen – für Hersteller von Maschinen und Anlagen",
+   "place": "",
+   "start": "12.04.2027",
+   "end": "15.04.2027",
+   "desc": "Der Cyber Resilience Act (CRA) stellt Hersteller von Maschinen und Anlagen vor die Aufgabe, Cyber Security systematisch in Entwicklung, Konformitätsbewertung und Produktpflege zu integrieren.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8819&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
    "title": "Seminar - FS Technician for Machinery mit TÜV Rheinland-Zertifikat",
    "place": "Bad Pyrmont, Deutschland",
    "start": "12.04.2027",
    "end": "16.04.2027",
    "desc": "Werden Sie zum TÜV- zertifizierten Experten der funktionalen Sicherheit und lernen Sie alles rund um die CE- Kennzeichnung von Maschinen.",
    "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7730&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "CE‑konformer Schutz gegen Korrumpierung – Umsetzung nach prEN 50742",
+   "place": "",
+   "start": "14.04.2027",
+   "end": null,
+   "desc": "Mit der neuen Maschinenverordnung werden erstmals verbindliche Anforderungen an den Schutz von Maschinen und Anlagen gegen Korrumpierung und Cyberangriffe gestellt.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8810&sp_id=1",
    "typ": "seminarDetailPage"
   },
   {
@@ -561,6 +597,24 @@
    "typ": "seminarDetailPage"
   },
   {
+   "title": "CE‑konformer Schutz gegen Korrumpierung – Umsetzung nach prEN 50742",
+   "place": "",
+   "start": "10.06.2027",
+   "end": null,
+   "desc": "Mit der neuen Maschinenverordnung werden erstmals verbindliche Anforderungen an den Schutz von Maschinen und Anlagen gegen Korrumpierung und Cyberangriffe gestellt.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8810&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "CE‑konformer Schutz gegen Korrumpierung – Umsetzung nach prEN 50742",
+   "place": "",
+   "start": "28.07.2027",
+   "end": null,
+   "desc": "Mit der neuen Maschinenverordnung werden erstmals verbindliche Anforderungen an den Schutz von Maschinen und Anlagen gegen Korrumpierung und Cyberangriffe gestellt.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8810&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
    "title": "Cyber Resilience Act und IEC 62443",
    "place": "Paderborn, Deutschland",
    "start": "07.09.2027",
@@ -669,12 +723,30 @@
    "typ": "seminarDetailPage"
   },
   {
+   "title": "CE‑konformer Schutz gegen Korrumpierung – Umsetzung nach prEN 50742",
+   "place": "",
+   "start": "13.10.2027",
+   "end": null,
+   "desc": "Mit der neuen Maschinenverordnung werden erstmals verbindliche Anforderungen an den Schutz von Maschinen und Anlagen gegen Korrumpierung und Cyberangriffe gestellt.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8810&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
    "title": "TÜV Rheinland Cyber Security Training Program - Fundamentals of Cyber Security",
    "place": "Böblingen, Deutschland",
    "start": "25.10.2027",
    "end": "28.10.2027",
    "desc": "Ihr Start auf dem Weg zum anerkannten Experten für Cyber Security in der industriellen Automatisierung.",
    "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7731&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Cyber Resilience Act umsetzen – für Hersteller von Maschinen und Anlagen",
+   "place": "",
+   "start": "02.11.2027",
+   "end": "05.11.2027",
+   "desc": "Der Cyber Resilience Act (CRA) stellt Hersteller von Maschinen und Anlagen vor die Aufgabe, Cyber Security systematisch in Entwicklung, Konformitätsbewertung und Produktpflege zu integrieren.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8819&sp_id=1",
    "typ": "seminarDetailPage"
   },
   {
@@ -720,6 +792,15 @@
    "end": "12.11.2027",
    "desc": "Erlernen Sie die einfache Umsetzung der Hardware-Anforderungen der EN ISO 13849-1:2023",
    "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8809&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "FS Technician for Machinery mit TÜV Rheinland-Zertifikat",
+   "place": "Bad Pyrmont, Deutschland",
+   "start": "15.11.2027",
+   "end": "19.11.2027",
+   "desc": "Werden Sie zum TÜV-zertifizierten Experten der funktionalen Sicherheit und lernen Sie alles rund um die CE-Kennzeichnung von Maschinen.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7730&sp_id=1",
    "typ": "seminarDetailPage"
   },
   {
