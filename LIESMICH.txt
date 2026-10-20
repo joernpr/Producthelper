@@ -1,4 +1,4 @@
-PRODUKTHELFER AUTOMATION – INSTALLIERBARE APP, VERSION V01.15
+PRODUKTHELFER AUTOMATION – INSTALLIERBARE APP, VERSION V01.16
 ================================================================
 
 FUNKTION
@@ -39,7 +39,7 @@ BEREITSTELLEN & INSTALLIEREN
   Hinweis: Per Doppelklick (file://) blockiert der Browser die Verbindung
   zwischen Startseite und Produkthelfern (Suche → Produkt öffnen, Merkliste).
   Für die Nutzung ohne Server die Einzeldatei
-  Produkthelfer_Automation_V01_15.html verwenden.
+  Produkthelfer_Automation_V01_16.html verwenden.
 
 SEMINARTERMINE TAGESAKTUELL (Dienstleistungen)
   Die App blendet vergangene Termine automatisch aus. Liegt neben index.html
