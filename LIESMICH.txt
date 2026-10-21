@@ -1,4 +1,4 @@
-PRODUKTHELFER AUTOMATION – INSTALLIERBARE APP, VERSION V01.17
+PRODUKTHELFER AUTOMATION – INSTALLIERBARE APP, VERSION V01.18
 ================================================================
 
 FUNKTION
@@ -11,7 +11,7 @@ FUNKTION
   - Systemverkabelung                       (V1.0)
   - Contactron Motorstarter                 (V01.06)
   - Prozessanzeigen & Feldgeräte            (V1.2)
-  - Dienstleistungen                        (V01.01)
+  - Dienstleistungen                        (V01.02)
   - Ansprechpartner                         (V02.00)
   Dazu: Suche mit Alltagsbegriffen, Artikelnummern und Beschreibungen,
   Auswertung von Kundenanfragen über alle Bereiche, gemeinsame Merkliste
@@ -40,7 +40,7 @@ BEREITSTELLEN & INSTALLIEREN
   Hinweis: Per Doppelklick (file://) blockiert der Browser die Verbindung
   zwischen Startseite und Produkthelfern (Suche → Produkt öffnen, Merkliste).
   Für die Nutzung ohne Server die Einzeldatei
-  Produkthelfer_Automation_V01_17.html verwenden.
+  Produkthelfer_Automation_V01_18.html verwenden.
 
 SEMINARTERMINE TAGESAKTUELL (Dienstleistungen)
   Die App blendet vergangene Termine automatisch aus. Liegt neben index.html
