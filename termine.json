@@ -1,25 +1,7 @@
 {
- "stand": "21.10.2026",
+ "stand": "22.10.2026",
  "quelle": "https://www.phoenixcontact.com/de-de/events-und-news/events-und-seminare",
  "events": [
-  {
-   "title": "Hydrogen Technology Expo Europe",
-   "place": "Hamburg, Deutschland",
-   "start": "20.10.2026",
-   "end": "22.10.2026",
-   "desc": "Auf der Hydrogen Technology Expo Europe in Hamburg zeigen wir, wie leistungsfähige Konnektivität, automatisierte Prozesse und robuste Energieinfrastruktur den Weg in eine skalierbare und effiziente Wasserstoffwirtschaft ebnen.",
-   "u": "https://www.hydrogen-worldexpo.com/",
-   "typ": "exploreEvent"
-  },
-  {
-   "title": "Überspannungsschutz in elektrischen Anlagen",
-   "place": "Oberschleißheim, Deutschland",
-   "start": "22.10.2026",
-   "end": null,
-   "desc": "Ein durchdachtes Überspannungsschutzkonzept schützt sensible Technik, vermeidet Ausfälle und steigert die Anlagenverfügbarkeit.",
-   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8600&sp_id=1",
-   "typ": "seminarDetailPage"
-  },
   {
    "title": "Industrial Ethernet & Cyber Security",
    "place": "Bad Pyrmont, Deutschland",
