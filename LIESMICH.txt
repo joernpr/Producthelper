@@ -1,4 +1,4 @@
-PRODUKTHELFER AUTOMATION – INSTALLIERBARE APP, VERSION V01.19
+PRODUKTHELFER AUTOMATION – INSTALLIERBARE APP, VERSION V01.20
 ================================================================
 
 FUNKTION
@@ -9,7 +9,7 @@ FUNKTION
   - Trennverstärker & I/O-Signalrangierung  (V6.2)
   - Sicherheitsschaltgeräte & Sensoren      (V02.00)
   - Systemverkabelung                       (V1.0)
-  - Contactron Motorstarter                 (V01.06)
+  - Contactron Motorstarter                 (V02.00)
   - Prozessanzeigen & Feldgeräte            (V1.2)
   - Dienstleistungen                        (V01.02)
   - Ansprechpartner                         (V02.00)
@@ -40,7 +40,7 @@ BEREITSTELLEN & INSTALLIEREN
   Hinweis: Per Doppelklick (file://) blockiert der Browser die Verbindung
   zwischen Startseite und Produkthelfern (Suche → Produkt öffnen, Merkliste).
   Für die Nutzung ohne Server die Einzeldatei
-  Produkthelfer_Automation_V01_19.html verwenden.
+  Produkthelfer_Automation_V01_20.html verwenden.
 
 SEMINARTERMINE TAGESAKTUELL (Dienstleistungen)
   Die App blendet vergangene Termine automatisch aus. Liegt neben index.html
