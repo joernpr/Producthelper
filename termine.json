@@ -1,23 +1,14 @@
 {
- "stand": "27.10.2026",
+ "stand": "28.10.2026",
  "quelle": "https://www.phoenixcontact.com/de-de/events-und-news/events-und-seminare",
  "events": [
   {
-   "title": "Industrial Ethernet & Cyber Security",
-   "place": "Bad Pyrmont, Deutschland",
-   "start": "26.10.2026",
-   "end": "28.10.2026",
-   "desc": "Sie brauchen Sicherheit im Umgang mit industriellen Netzwerken? Sie möchten die aktuellen Security-Mechanismen verstehen und zielgerichtet anwenden? Unsere Trainer kommen aus der Automatisierungstechnik und zeigen Ihnen aus der Sicht des Praktikers, was bei der Planung und Inbetriebnahme sicherer Netzwerke zu beachten ist und wie sie Ihre Anlage gegen Cyberangriffe absichern.",
-   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8337&sp_id=1",
-   "typ": "seminarDetailPage"
-  },
-  {
-   "title": "NFPA 79: Maschinen für den nordamerikanischen Markt (UL 2011)",
+   "title": "Cyber Security Basiswissen CRA - für Entwicklungs‑ und Projektteams",
    "place": "Online, Deutschland",
-   "start": "27.10.2026",
-   "end": null,
-   "desc": "Erfahren Sie die wichtigsten Anforderungen nach NFPA 79 und UL 2011 zum Aufbau von Maschinen für den nordamerikanischen Markt.",
-   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7739&sp_id=1",
+   "start": "03.11.2026",
+   "end": "04.11.2026",
+   "desc": "Der Cyber Resilience Act (CRA) schafft einen neuen Rechtsrahmen für die Cyber Security vernetzter Produkte und stellt Entwicklungs- und Projektteams vor neue technische, organisatorische und regulatorische Herausforderungen.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8818&sp_id=1",
    "typ": "seminarDetailPage"
   },
   {
@@ -30,15 +21,6 @@
    "typ": "seminarDetailPage"
   },
   {
-   "title": "Cyber Security Basiswissen CRA - für Entwicklungs‑ und Projektteams",
-   "place": "Online, Deutschland",
-   "start": "03.11.2026",
-   "end": "04.11.2026",
-   "desc": "Der Cyber Resilience Act (CRA) schafft einen neuen Rechtsrahmen für die Cyber Security vernetzter Produkte und stellt Entwicklungs- und Projektteams vor neue technische, organisatorische und regulatorische Herausforderungen.",
-   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8818&sp_id=1",
-   "typ": "seminarDetailPage"
-  },
-  {
    "title": "Planerforum",
    "place": "Bielefeld, Deutschland",
    "start": "03.11.2026",
@@ -46,6 +28,15 @@
    "desc": "An zwei Tagen bieten wir Ihnen ein vielfältiges Programm aus hochkarätigen Fachvorträgen, praxisnahen Workshops, Live‑Demonstrationen und exklusiven Einblicken in aktuelle Technologien.",
    "u": "https://event.phoenixcontact.com/Planerforum2026",
    "typ": "exploreEvent"
+  },
+  {
+   "title": "MARKING system Software – Kennzeichnungsprozesse mit SKEMDIT",
+   "place": "Online, Deutschland",
+   "start": "05.11.2026",
+   "end": null,
+   "desc": "Erfahren Sie in diesem Webinar, wie Sie mit der MARKING system Software und SKEMDIT Kennzeichnungsprozesse durchgängig digitalisieren und effizient automatisieren.",
+   "u": "https://events.teams.microsoft.com/event/989bf3a2-200b-47c3-9e1e-27452642d605@6868843b-f012-4c95-a18e-bab826cca9ac?source",
+   "typ": "seminarDetailPage"
   },
   {
    "title": "FS Technician for Machinery mit TÜV Rheinland-Zertifikat",
@@ -93,21 +84,21 @@
    "typ": "exploreEvent"
   },
   {
-   "title": "Wir machen Fernwartung einfach - mit der neuen mGuard secure Cloud",
-   "place": "Online, Deutschland",
-   "start": "11.11.2026",
-   "end": null,
-   "desc": "Das Webinar ermöglicht Ihnen den einfachen Einstieg in das Thema Fernwartung über das Internet. In unserem 2-stündigen Webinar vermitteln wir Ihnen Grundlagen zur industriellen Kommunikation via Internet, sowie IP- und VPN-Grundlagen.",
-   "u": "https://events.teams.microsoft.com/event/ec85e4d6-9897-469b-9be9-6810b1e96c7b@6868843b-f012-4c95-a18e-bab826cca9ac",
-   "typ": "seminarDetailPage"
-  },
-  {
    "title": "CE‑konformer Schutz gegen Korrumpierung – Umsetzung nach prEN 50742",
    "place": "Online, Deutschland",
    "start": "11.11.2026",
    "end": null,
    "desc": "Mit der neuen Maschinenverordnung werden erstmals verbindliche Anforderungen an den Schutz von Maschinen und Anlagen gegen Korrumpierung und Cyberangriffe gestellt.",
    "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8810&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Wir machen Fernwartung einfach - mit der neuen mGuard secure Cloud",
+   "place": "Online, Deutschland",
+   "start": "11.11.2026",
+   "end": null,
+   "desc": "Das Webinar ermöglicht Ihnen den einfachen Einstieg in das Thema Fernwartung über das Internet. In unserem 2-stündigen Webinar vermitteln wir Ihnen Grundlagen zur industriellen Kommunikation via Internet, sowie IP- und VPN-Grundlagen.",
+   "u": "https://events.teams.microsoft.com/event/ec85e4d6-9897-469b-9be9-6810b1e96c7b@6868843b-f012-4c95-a18e-bab826cca9ac",
    "typ": "seminarDetailPage"
   },
   {
@@ -129,12 +120,12 @@
    "typ": "seminarDetailPage"
   },
   {
-   "title": "Cyber Security Basiswissen NIS‑2 für Betreiber",
+   "title": "Cyber Resilience Act umsetzen – für Hersteller von Maschinen und Anlagen",
    "place": "Online, Deutschland",
    "start": "17.11.2026",
-   "end": null,
-   "desc": "Die NIS2-Richtlinie verschärft die Anforderungen an die Cyber Security von Betreibern kritischer und wichtiger Unternehmen als auch kommunaler Versorgungsunternehmen und macht Informationssicherheit zu einer zentralen Organisationsaufgabe.",
-   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8805&sp_id=1",
+   "end": "26.11.2026",
+   "desc": "Der Cyber Resilience Act (CRA) stellt Hersteller von Maschinen und Anlagen vor die Aufgabe, Cyber Security systematisch in Entwicklung, Konformitätsbewertung und Produktpflege zu integrieren.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8819&sp_id=1",
    "typ": "seminarDetailPage"
   },
   {
@@ -147,12 +138,12 @@
    "typ": "seminarDetailPage"
   },
   {
-   "title": "Cyber Resilience Act umsetzen – für Hersteller von Maschinen und Anlagen",
+   "title": "Cyber Security Basiswissen NIS‑2 für Betreiber",
    "place": "Online, Deutschland",
    "start": "17.11.2026",
-   "end": "26.11.2026",
-   "desc": "Der Cyber Resilience Act (CRA) stellt Hersteller von Maschinen und Anlagen vor die Aufgabe, Cyber Security systematisch in Entwicklung, Konformitätsbewertung und Produktpflege zu integrieren.",
-   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8819&sp_id=1",
+   "end": null,
+   "desc": "Die NIS2-Richtlinie verschärft die Anforderungen an die Cyber Security von Betreibern kritischer und wichtiger Unternehmen als auch kommunaler Versorgungsunternehmen und macht Informationssicherheit zu einer zentralen Organisationsaufgabe.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8805&sp_id=1",
    "typ": "seminarDetailPage"
   },
   {
@@ -219,12 +210,12 @@
    "typ": "seminarDetailPage"
   },
   {
-   "title": "Security in der Industrie/OT",
+   "title": "CE‑konformer Schutz gegen Korrumpierung – Umsetzung nach prEN 50742",
    "place": "Online, Deutschland",
    "start": "09.12.2026",
-   "end": "10.12.2026",
-   "desc": "Erleben Sie die grundsätzlichen Anforderungen der industriellen Informationssicherheit und wie Sie diese mithilfe der IEC 62443 realisieren.",
-   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7701&sp_id=1",
+   "end": null,
+   "desc": "Mit der neuen Maschinenverordnung werden erstmals verbindliche Anforderungen an den Schutz von Maschinen und Anlagen gegen Korrumpierung und Cyberangriffe gestellt.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8810&sp_id=1",
    "typ": "seminarDetailPage"
   },
   {
@@ -237,12 +228,12 @@
    "typ": "seminarDetailPage"
   },
   {
-   "title": "CE‑konformer Schutz gegen Korrumpierung – Umsetzung nach prEN 50742",
+   "title": "Security in der Industrie/OT",
    "place": "Online, Deutschland",
    "start": "09.12.2026",
-   "end": null,
-   "desc": "Mit der neuen Maschinenverordnung werden erstmals verbindliche Anforderungen an den Schutz von Maschinen und Anlagen gegen Korrumpierung und Cyberangriffe gestellt.",
-   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8810&sp_id=1",
+   "end": "10.12.2026",
+   "desc": "Erleben Sie die grundsätzlichen Anforderungen der industriellen Informationssicherheit und wie Sie diese mithilfe der IEC 62443 realisieren.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7701&sp_id=1",
    "typ": "seminarDetailPage"
   },
   {
@@ -273,21 +264,21 @@
    "typ": "seminarDetailPage"
   },
   {
-   "title": "Grundlagen der Schutztechnik + Expertenschulung Schutztechnik",
-   "place": "Velbert, Deutschland",
-   "start": "19.01.2027",
-   "end": "21.01.2027",
-   "desc": "Lernen Sie die Grundlagen der Schutztechnik und unsere Schutzgeräte und Software im Detail kennen",
-   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7831&sp_id=1",
-   "typ": "seminarDetailPage"
-  },
-  {
    "title": "Grundlagen der Schutztechnik",
    "place": "Velbert, Deutschland",
    "start": "19.01.2027",
    "end": null,
    "desc": "Lernen Sie die Grundlagen der Schutztechnik kennen",
    "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7821&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Grundlagen der Schutztechnik + Expertenschulung Schutztechnik",
+   "place": "Velbert, Deutschland",
+   "start": "19.01.2027",
+   "end": "21.01.2027",
+   "desc": "Lernen Sie die Grundlagen der Schutztechnik und unsere Schutzgeräte und Software im Detail kennen",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7831&sp_id=1",
    "typ": "seminarDetailPage"
   },
   {
@@ -327,15 +318,6 @@
    "typ": "seminarDetailPage"
   },
   {
-   "title": "Security in der Industrie/OT – Grundlagen IEC 62443",
-   "place": "Online, Deutschland",
-   "start": "09.02.2027",
-   "end": "10.02.2027",
-   "desc": "Erleben Sie die grundsätzlichen Anforderungen der industriellen Informationssicherheit und wie Sie diese mithilfe der IEC 62443 realisieren.",
-   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7701&sp_id=1",
-   "typ": "seminarDetailPage"
-  },
-  {
    "title": "Cyber Security, was NIS wirklich bedeutet – Orientierung für Entscheider",
    "place": "Online, Deutschland",
    "start": "09.02.2027",
@@ -345,21 +327,12 @@
    "typ": "seminarDetailPage"
   },
   {
-   "title": "OT-Security Grundlagenschulung",
+   "title": "Security in der Industrie/OT – Grundlagen IEC 62443",
    "place": "Online, Deutschland",
-   "start": "10.02.2027",
-   "end": null,
-   "desc": "Erleben Sie die grundsätzlichen Anforderungen an die Cyber Security von Automatisierungsanlagen und deren Notwendigkeit im Bereich der OT-Security.",
-   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7751&sp_id=1",
-   "typ": "seminarDetailPage"
-  },
-  {
-   "title": "OT-Security Grundlagenschulung",
-   "place": "Online, Deutschland",
-   "start": "10.02.2027",
-   "end": null,
-   "desc": "Erleben Sie die grundsätzlichen Anforderungen an die Cyber Security von Automatisierungsanlagen und deren Notwendigkeit im Bereich der OT-Security.",
-   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7751&sp_id=1",
+   "start": "09.02.2027",
+   "end": "10.02.2027",
+   "desc": "Erleben Sie die grundsätzlichen Anforderungen der industriellen Informationssicherheit und wie Sie diese mithilfe der IEC 62443 realisieren.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7701&sp_id=1",
    "typ": "seminarDetailPage"
   },
   {
@@ -369,6 +342,24 @@
    "end": null,
    "desc": "Die NIS2-Richtlinie verschärft die Anforderungen an die Cyber Security von Betreibern kritischer und wichtiger Unternehmen als auch kommunaler Versorgungsunternehmen und macht Informationssicherheit zu einer zentralen Organisationsaufgabe.",
    "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8805&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "OT-Security Grundlagenschulung",
+   "place": "Online, Deutschland",
+   "start": "10.02.2027",
+   "end": null,
+   "desc": "Erleben Sie die grundsätzlichen Anforderungen an die Cyber Security von Automatisierungsanlagen und deren Notwendigkeit im Bereich der OT-Security.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7751&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "OT-Security Grundlagenschulung",
+   "place": "Online, Deutschland",
+   "start": "10.02.2027",
+   "end": null,
+   "desc": "Erleben Sie die grundsätzlichen Anforderungen an die Cyber Security von Automatisierungsanlagen und deren Notwendigkeit im Bereich der OT-Security.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7751&sp_id=1",
    "typ": "seminarDetailPage"
   },
   {
@@ -399,21 +390,21 @@
    "typ": "seminarDetailPage"
   },
   {
-   "title": "Cyber Resilience Act und IEC 62443",
-   "place": "Böblingen, Deutschland",
-   "start": "23.02.2027",
-   "end": null,
-   "desc": "Dieses Seminar vermittelt die Grundlagen des CRA, zeigt praxisnahe Umsetzungsstrategien und stellt die Verbindung zu etablierten Sicherheitsstandards wie IEC 62443 her. Ziel ist es, Führungskräfte und Fachkräfte auf die kommenden Anforderungen vorzubereiten und Orientierung für die Umsetzung im Unternehmen zu geben.",
-   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8490&sp_id=1",
-   "typ": "seminarDetailPage"
-  },
-  {
    "title": "Cyber Security Basiswissen CRA - für Entwicklungs‑ und Projektteams",
    "place": "Online, Deutschland",
    "start": "23.02.2027",
    "end": "24.02.2027",
    "desc": "Der Cyber Resilience Act (CRA) schafft einen neuen Rechtsrahmen für die Cyber Security vernetzter Produkte und stellt Entwicklungs- und Projektteams vor neue technische, organisatorische und regulatorische Herausforderungen.",
    "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8818&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Cyber Resilience Act und IEC 62443",
+   "place": "Böblingen, Deutschland",
+   "start": "23.02.2027",
+   "end": null,
+   "desc": "Dieses Seminar vermittelt die Grundlagen des CRA, zeigt praxisnahe Umsetzungsstrategien und stellt die Verbindung zu etablierten Sicherheitsstandards wie IEC 62443 her. Ziel ist es, Führungskräfte und Fachkräfte auf die kommenden Anforderungen vorzubereiten und Orientierung für die Umsetzung im Unternehmen zu geben.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8490&sp_id=1",
    "typ": "seminarDetailPage"
   },
   {
@@ -498,6 +489,15 @@
    "typ": "seminarDetailPage"
   },
   {
+   "title": "CE-konforme Elektrokonstruktion – Funktionale Sicherheit nach Stand der Technik",
+   "place": "",
+   "start": "15.04.2027",
+   "end": "16.04.2027",
+   "desc": "Erlernen Sie die einfache Umsetzung der Hardware-Anforderungen der EN ISO 13849-1:2023",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8809&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
    "title": "CE-Basiswissen im Schaltschrankbau für Projektleiter und Konstrukteure",
    "place": "",
    "start": "15.04.2027",
@@ -507,12 +507,21 @@
    "typ": "seminarDetailPage"
   },
   {
-   "title": "CE-konforme Elektrokonstruktion – Funktionale Sicherheit nach Stand der Technik",
+   "title": "Cyber Security Basiswissen CRA - für Entwicklungs‑ und Projektteams",
+   "place": "Online, Deutschland",
+   "start": "20.04.2027",
+   "end": null,
+   "desc": "Der Cyber Resilience Act (CRA) schafft einen neuen Rechtsrahmen für die Cyber Security vernetzter Produkte und stellt Entwicklungs- und Projektteams vor neue technische, organisatorische und regulatorische Herausforderungen.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8818&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Cyber Security Basiswissen CRA - für Entwicklungs‑ und Projektteams",
    "place": "",
-   "start": "15.04.2027",
-   "end": "16.04.2027",
-   "desc": "Erlernen Sie die einfache Umsetzung der Hardware-Anforderungen der EN ISO 13849-1:2023",
-   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8809&sp_id=1",
+   "start": "20.04.2027",
+   "end": null,
+   "desc": "Der Cyber Resilience Act (CRA) schafft einen neuen Rechtsrahmen für die Cyber Security vernetzter Produkte und stellt Entwicklungs- und Projektteams vor neue technische, organisatorische und regulatorische Herausforderungen.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8818&sp_id=1",
    "typ": "seminarDetailPage"
   },
   {
@@ -525,24 +534,6 @@
    "typ": "seminarDetailPage"
   },
   {
-   "title": "Cyber Security Basiswissen CRA - für Entwicklungs‑ und Projektteams",
-   "place": "",
-   "start": "20.04.2027",
-   "end": null,
-   "desc": "Der Cyber Resilience Act (CRA) schafft einen neuen Rechtsrahmen für die Cyber Security vernetzter Produkte und stellt Entwicklungs- und Projektteams vor neue technische, organisatorische und regulatorische Herausforderungen.",
-   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8818&sp_id=1",
-   "typ": "seminarDetailPage"
-  },
-  {
-   "title": "Cyber Security Basiswissen CRA - für Entwicklungs‑ und Projektteams",
-   "place": "Online, Deutschland",
-   "start": "20.04.2027",
-   "end": null,
-   "desc": "Der Cyber Resilience Act (CRA) schafft einen neuen Rechtsrahmen für die Cyber Security vernetzter Produkte und stellt Entwicklungs- und Projektteams vor neue technische, organisatorische und regulatorische Herausforderungen.",
-   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8818&sp_id=1",
-   "typ": "seminarDetailPage"
-  },
-  {
    "title": "Cyber Security, was NIS wirklich bedeutet – Orientierung für Entscheider",
    "place": "Online, Deutschland",
    "start": "27.04.2027",
@@ -552,12 +543,12 @@
    "typ": "seminarDetailPage"
   },
   {
-   "title": "Security in der Industrie/OT – Grundlagen IEC 62443",
+   "title": "Cyber Security Basiswissen NIS‑2 für Betreiber",
    "place": "Online, Deutschland",
    "start": "28.04.2027",
-   "end": "29.04.2027",
-   "desc": "Erleben Sie die grundsätzlichen Anforderungen der industriellen Informationssicherheit und wie Sie diese mithilfe der IEC 62443 realisieren.",
-   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7701&sp_id=1",
+   "end": null,
+   "desc": "Die NIS2-Richtlinie verschärft die Anforderungen an die Cyber Security von Betreibern kritischer und wichtiger Unternehmen als auch kommunaler Versorgungsunternehmen und macht Informationssicherheit zu einer zentralen Organisationsaufgabe.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8805&sp_id=1",
    "typ": "seminarDetailPage"
   },
   {
@@ -570,12 +561,12 @@
    "typ": "seminarDetailPage"
   },
   {
-   "title": "Cyber Security Basiswissen NIS‑2 für Betreiber",
+   "title": "Security in der Industrie/OT – Grundlagen IEC 62443",
    "place": "Online, Deutschland",
    "start": "28.04.2027",
-   "end": null,
-   "desc": "Die NIS2-Richtlinie verschärft die Anforderungen an die Cyber Security von Betreibern kritischer und wichtiger Unternehmen als auch kommunaler Versorgungsunternehmen und macht Informationssicherheit zu einer zentralen Organisationsaufgabe.",
-   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8805&sp_id=1",
+   "end": "29.04.2027",
+   "desc": "Erleben Sie die grundsätzlichen Anforderungen der industriellen Informationssicherheit und wie Sie diese mithilfe der IEC 62443 realisieren.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7701&sp_id=1",
    "typ": "seminarDetailPage"
   },
   {
@@ -660,30 +651,12 @@
    "typ": "seminarDetailPage"
   },
   {
-   "title": "Cyber Resilience Act und IEC 62443",
-   "place": "Paderborn, Deutschland",
-   "start": "07.09.2027",
-   "end": null,
-   "desc": "Dieses Seminar vermittelt die Grundlagen des CRA, zeigt praxisnahe Umsetzungsstrategien und stellt die Verbindung zu etablierten Sicherheitsstandards wie IEC 62443 her. Ziel ist es, Führungskräfte und Fachkräfte auf die kommenden Anforderungen vorzubereiten und Orientierung für die Umsetzung im Unternehmen zu geben.",
-   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8490&sp_id=1",
-   "typ": "seminarDetailPage"
-  },
-  {
-   "title": "Zertifiziertes Niagara 4 TCP Training (Tridium Certified)",
-   "place": "",
-   "start": "07.09.2027",
-   "end": "17.09.2027",
-   "desc": "Tauchen Sie ein in die Welt des Niagara Frameworks! Phoenix Contact bietet Ihnen ein praxisorientiertes Trainingsformat – abgestimmt auf Ihre Ziele und Vorkenntnisse!",
-   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8487&modus=",
-   "typ": "seminarDetailPage"
-  },
-  {
-   "title": "CE-Basiswissen im Maschinen- und Anlagenbau für Projektleiter und Konstrukteure",
+   "title": "Cyber Security Basiswissen CRA",
    "place": "Bad Pyrmont, Deutschland",
    "start": "07.09.2027",
    "end": null,
-   "desc": "Die CE-Kennzeichnung ist ein zentraler Bestandteil der rechtssicheren Entwicklung und Bereitstellung von Maschinen und Anlagen.",
-   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8821&sp_id=1",
+   "desc": "Der Cyber Resilience Act (CRA) schafft einen neuen Rechtsrahmen für die Cyber Security vernetzter Produkte und stellt Entwicklungs- und Projektteams vor neue technische, organisatorische und regulatorische Herausforderungen.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8818&sp_id=1",
    "typ": "seminarDetailPage"
   },
   {
@@ -696,12 +669,30 @@
    "typ": "seminarDetailPage"
   },
   {
-   "title": "Cyber Security Basiswissen CRA",
+   "title": "CE-Basiswissen im Maschinen- und Anlagenbau für Projektleiter und Konstrukteure",
    "place": "Bad Pyrmont, Deutschland",
    "start": "07.09.2027",
    "end": null,
-   "desc": "Der Cyber Resilience Act (CRA) schafft einen neuen Rechtsrahmen für die Cyber Security vernetzter Produkte und stellt Entwicklungs- und Projektteams vor neue technische, organisatorische und regulatorische Herausforderungen.",
-   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8818&sp_id=1",
+   "desc": "Die CE-Kennzeichnung ist ein zentraler Bestandteil der rechtssicheren Entwicklung und Bereitstellung von Maschinen und Anlagen.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8821&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Zertifiziertes Niagara 4 TCP Training (Tridium Certified)",
+   "place": "",
+   "start": "07.09.2027",
+   "end": "17.09.2027",
+   "desc": "Tauchen Sie ein in die Welt des Niagara Frameworks! Phoenix Contact bietet Ihnen ein praxisorientiertes Trainingsformat – abgestimmt auf Ihre Ziele und Vorkenntnisse!",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8487&modus=",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Cyber Resilience Act und IEC 62443",
+   "place": "Paderborn, Deutschland",
+   "start": "07.09.2027",
+   "end": null,
+   "desc": "Dieses Seminar vermittelt die Grundlagen des CRA, zeigt praxisnahe Umsetzungsstrategien und stellt die Verbindung zu etablierten Sicherheitsstandards wie IEC 62443 her. Ziel ist es, Führungskräfte und Fachkräfte auf die kommenden Anforderungen vorzubereiten und Orientierung für die Umsetzung im Unternehmen zu geben.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8490&sp_id=1",
    "typ": "seminarDetailPage"
   },
   {
@@ -750,21 +741,21 @@
    "typ": "seminarDetailPage"
   },
   {
-   "title": "Security in der Industrie/OT – Grundlagen IEC 62443",
-   "place": "Online, Deutschland",
-   "start": "05.10.2027",
-   "end": "06.10.2027",
-   "desc": "Erleben Sie die grundsätzlichen Anforderungen der industriellen Informationssicherheit und wie Sie diese mithilfe der IEC 62443 realisieren.",
-   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7701&sp_id=1",
-   "typ": "seminarDetailPage"
-  },
-  {
    "title": "Cyber Security, was NIS wirklich bedeutet – Orientierung für Entscheider",
    "place": "Online, Deutschland",
    "start": "05.10.2027",
    "end": null,
    "desc": "Die NIS2-Richtlinie stellt neue Anforderungen an die Cyber Security von Unternehmen als auch kommunale Versorgungsunternehmen und macht Informationssicherheit zu einer zentralen Managementaufgabe.",
    "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8803&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Security in der Industrie/OT – Grundlagen IEC 62443",
+   "place": "Online, Deutschland",
+   "start": "05.10.2027",
+   "end": "06.10.2027",
+   "desc": "Erleben Sie die grundsätzlichen Anforderungen der industriellen Informationssicherheit und wie Sie diese mithilfe der IEC 62443 realisieren.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7701&sp_id=1",
    "typ": "seminarDetailPage"
   },
   {
@@ -831,21 +822,21 @@
    "typ": "seminarDetailPage"
   },
   {
-   "title": "Emalytics View Training",
-   "place": "Online, Deutschland",
-   "start": "09.11.2027",
-   "end": "10.11.2027",
-   "desc": "Lernen Sie, wie Sie mit Emalytics View Ihre Projekte schneller umsetzen und dem Kundenanspruch gerechter werden können. Diese Visualisierung für die Management und Bedieneinrichtung lässt sich nahtlos in das Niagara Framework integrieren. Lernen Sie, wie sie eine Visualierung innerhalb kürzester Zeit mit dem EmalyticsView Assistenten aufbauen und strukturieren.",
-   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8505&sp_id=1",
-   "typ": "seminarDetailPage"
-  },
-  {
    "title": "CE‑konforme Software – Funktionale Sicherheit nach Stand der Technik",
    "place": "",
    "start": "09.11.2027",
    "end": "10.11.2027",
    "desc": "Erlernen Sie die einfache Umsetzung der Software-Anforderungen der EN ISO 13849-1:2023",
    "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8808&sp_id=1",
+   "typ": "seminarDetailPage"
+  },
+  {
+   "title": "Emalytics View Training",
+   "place": "Online, Deutschland",
+   "start": "09.11.2027",
+   "end": "10.11.2027",
+   "desc": "Lernen Sie, wie Sie mit Emalytics View Ihre Projekte schneller umsetzen und dem Kundenanspruch gerechter werden können. Diese Visualisierung für die Management und Bedieneinrichtung lässt sich nahtlos in das Niagara Framework integrieren. Lernen Sie, wie sie eine Visualierung innerhalb kürzester Zeit mit dem EmalyticsView Assistenten aufbauen und strukturieren.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8505&sp_id=1",
    "typ": "seminarDetailPage"
   },
   {
@@ -912,12 +903,12 @@
    "typ": "seminarDetailPage"
   },
   {
-   "title": "Security in der Industrie/OT – Grundlagen IEC 62443",
+   "title": "Cyber Security Basiswissen NIS‑2 für Betreiber",
    "place": "Online, Deutschland",
    "start": "08.12.2027",
-   "end": "09.12.2027",
-   "desc": "Erleben Sie die grundsätzlichen Anforderungen der industriellen Informationssicherheit und wie Sie diese mithilfe der IEC 62443 realisieren.",
-   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7701&sp_id=1",
+   "end": null,
+   "desc": "Die NIS2-Richtlinie verschärft die Anforderungen an die Cyber Security von Betreibern kritischer und wichtiger Unternehmen als auch kommunaler Versorgungsunternehmen und macht Informationssicherheit zu einer zentralen Organisationsaufgabe.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8805&sp_id=1",
    "typ": "seminarDetailPage"
   },
   {
@@ -930,12 +921,12 @@
    "typ": "seminarDetailPage"
   },
   {
-   "title": "Cyber Security Basiswissen NIS‑2 für Betreiber",
+   "title": "Security in der Industrie/OT – Grundlagen IEC 62443",
    "place": "Online, Deutschland",
    "start": "08.12.2027",
-   "end": null,
-   "desc": "Die NIS2-Richtlinie verschärft die Anforderungen an die Cyber Security von Betreibern kritischer und wichtiger Unternehmen als auch kommunaler Versorgungsunternehmen und macht Informationssicherheit zu einer zentralen Organisationsaufgabe.",
-   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8805&sp_id=1",
+   "end": "09.12.2027",
+   "desc": "Erleben Sie die grundsätzlichen Anforderungen der industriellen Informationssicherheit und wie Sie diese mithilfe der IEC 62443 realisieren.",
+   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=7701&sp_id=1",
    "typ": "seminarDetailPage"
   },
   {
