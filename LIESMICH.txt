@@ -1,18 +1,77 @@
-PRODUKTHELFER AUTOMATION – INSTALLIERBARE APP, VERSION V01.20
+PRODUKTHELFER AUTOMATION – INSTALLIERBARE APP, VERSION V01.24
 ================================================================
+
+ÄNDERUNGEN V01.24 (30.10.2026)
+  - Geprüft im iOS-Simulator (iPhone 17 Pro und iPad mini, iOS 26.3): Safari und
+    installierte App vom Home-Bildschirm, Bildschirmtastatur, Fingerbedienung,
+    Zurück-Geste, Offline-Start und CSV-Download.
+  - CSV-Fenster: Bei langen Dateinamen liefen Download-Knopf und Textfeld rechts
+    über den Bildschirm hinaus. Der Knopf bricht jetzt um.
+  - iPhone quer: Der Inhalt liegt nicht mehr unter der Dynamic Island und den
+    Displayecken.
+
+ÄNDERUNGEN V01.23 (30.10.2026)
+  - Handy und Tablet: alle Bereiche in Hoch- und Querformat geprüft und
+    nachgebessert. Schaltflächen und Textlinks sind größer tippbar, Eingabefelder
+    lösen auf iPhone und iPad kein Hineinzoomen mehr aus.
+  - Prozessanzeigen: der Schleifenrechner im Grundwissen lief auf dem Handy seitlich
+    über den Bildschirm hinaus.
+  - Globale Suche: der letzte Treffer lag hinter der unteren Leiste.
+  - Datenbank auf dem Handy: die Tabelle steht jetzt vor der Datenbankverwaltung.
+  - Startseite: abgeschnittene Knöpfe in Kundenanfrage und Merkliste behoben, der
+    Kopf ist auf dem Handy flacher.
+  - Handy quer: der Kopf bleibt nicht mehr stehen, damit genug Platz für den Inhalt
+    bleibt.
+  - Tablet hochkant: lange Titel werden nicht mehr vom Suchfeld verdeckt.
+  - Zurück-Geste und Android-Zurück-Taste schließen zuerst ein offenes Fenster,
+    statt den ganzen Bereich zu verlassen.
+  - Export auf Touch-Geräten über das Teilen-Menü, wie bei den Ansprechpartnern.
+
+ÄNDERUNGEN V01.22 (30.10.2026)
+  - Textsuche der Trennverstärker V6.3 in alle Bereiche übernommen: erkennt
+    Typbezeichnungen und Artikelnummern (auch 29 02 04 0 oder 2902 040),
+    Stücklisten mit Mengen, unvollständige Typen und Fremdfabrikate. Empfehlungen
+    gibt es nur noch bei tragenden Angaben (Aufgabe, Produkttyp usw.).
+  - Trennverstärker & I/O-Signalrangierung auf V6.3 aktualisiert.
+  - Contactron: Stand V02.01 eingebaut (war V02.00), damit jetzt mit Textsuche,
+    Zubehör-Kurzbeschreibungen und Phoenix-Contact-Kette; Textsuche auf der Kachel.
+  - Systemverkabelung: aktuelle Daten eingebaut. Vorher fehlten bei 448 Artikeln
+    die technischen Daten, 248 Zubehörartikel und viele I/O-Karten-Zuordnungen;
+    Signalart und Schirmung waren teils falsch. Vergleich und Suche nachgezogen.
+  - Kundenanfrage auf der Startseite: genannte Artikel landen im richtigen
+    Bereich, unbekannte Typen und Fremdfabrikate werden gemeldet.
+  - Automatisierung zeigt jetzt die Tool-Version an; Dienstleistungen trägt das
+    Kennzeichen „Test“ an der Textsuche.
+  - Automatisierung und Kommunikation: Anforderungen, die es im Katalog nicht
+    gibt (z. B. „Zulassung UL“), leeren die Trefferliste nicht mehr. „ST“ wird nicht
+    mehr fälschlich als LWL-Stecker erkannt, bei SFP-Slots ist die Faserart kein
+    Muss-Kriterium, ein Access Point gilt als PoE-versorgt.
+  - Automatisierung: „SPS …, dazu I/O-Module“ und Listen wie „32 DI, 16 DO“ werden
+    in eigene Positionen getrennt; Box-PC, Panel-PC und Webpanel werden erkannt.
+  - Kundenanfrage: „2966171 – 24 Stück“ bleibt eine Position, die Menge landet
+    nicht mehr bei anderen Artikeln.
+
+ÄNDERUNGEN V01.21 (28.10.2026)
+  - Grundwissen: Klick auf ein Thema im Inhaltsverzeichnis lud die komplette
+    Startseite in den Bereich (doppelte Kopfzeile, Zurück sprang falsch). Behoben.
+  - Schneller Bereichswechsel: ein noch ladender Bereich schob sich später über
+    den aktuell gewählten. Behoben.
+  - Nach Sprachwechsel rutschte die rechte/linke Spalte beim Scrollen unter den
+    Kopf. Behoben.
+  - Textsuche: Kennzeichen „Test“ wieder als gelbes Etikett.
 
 FUNKTION
   Startseite „Automation“ mit einer Kachel je Produkthelfer:
-  - Automatisierung                         (V01.01)
-  - Industrielle Kommunikation              (V02.01)
-  - Relais                                  (V02.00)
-  - Trennverstärker & I/O-Signalrangierung  (V6.2)
-  - Sicherheitsschaltgeräte & Sensoren      (V02.00)
-  - Systemverkabelung                       (V1.0)
-  - Contactron Motorstarter                 (V02.00)
-  - Prozessanzeigen & Feldgeräte            (V1.2)
-  - Dienstleistungen                        (V01.02)
-  - Ansprechpartner                         (V02.00)
+  - Automatisierung                         (V01.04)
+  - Industrielle Kommunikation              (V02.04)
+  - Relais                                  (V02.03)
+  - Trennverstärker & I/O-Signalrangierung  (V6.5)
+  - Sicherheitsschaltgeräte & Sensoren      (V02.03)
+  - Systemverkabelung                       (V1.3)
+  - Contactron Motorstarter                 (V02.04)
+  - Prozessanzeigen & Feldgeräte            (V1.5)
+  - Dienstleistungen                        (V01.05)
+  - Ansprechpartner                         (V02.01)
   Dazu: Suche mit Alltagsbegriffen, Artikelnummern und Beschreibungen,
   Auswertung von Kundenanfragen über alle Bereiche, gemeinsame Merkliste
   (Export Excel/CSV) und Ansprechpartner zu jedem Produkt.
@@ -30,7 +89,7 @@ INHALT DES ORDNERS (alles auf einer Ebene, keine Unterordner)
   daten-beispiel.xlsx, *.jpg, „index (1).html“) werden nicht mehr benötigt.
 
 BEREITSTELLEN & INSTALLIEREN
-  Mindestens index.html, sw.js, manifest.webmanifest und icons/ per HTTPS
+  Mindestens index.html, sw.js, manifest.webmanifest und die vier icon-*.png per HTTPS
   bereitstellen (z. B. Intranet oder GitHub Pages) und index.html aufrufen.
   GitHub Pages: Dateien im Repository überschreiben (Add file > Upload files),
   „Commit changes“, 1–2 Minuten warten, dann Seite mit Strg+F5 neu laden.
@@ -39,8 +98,8 @@ BEREITSTELLEN & INSTALLIEREN
   Android/Windows/Mac: Chrome/Edge > „App installieren“.
   Hinweis: Per Doppelklick (file://) blockiert der Browser die Verbindung
   zwischen Startseite und Produkthelfern (Suche → Produkt öffnen, Merkliste).
-  Für die Nutzung ohne Server die Einzeldatei
-  Produkthelfer_Automation_V01_20.html verwenden.
+  Für die Nutzung ohne Server die einzelnen Produkthelfer aus dem Ordner
+  Einzeldateien_V01_23 verwenden.
 
 SEMINARTERMINE TAGESAKTUELL (Dienstleistungen)
   Die App blendet vergangene Termine automatisch aus. Liegt neben index.html
