@@ -1,5 +1,5 @@
 {
- "stand": "02.11.2026",
+ "stand": "03.11.2026",
  "quelle": "https://www.phoenixcontact.com/de-de/events-und-news/events-und-seminare",
  "events": [
   {
@@ -9,15 +9,6 @@
    "end": "04.11.2026",
    "desc": "Der Cyber Resilience Act (CRA) schafft einen neuen Rechtsrahmen für die Cyber Security vernetzter Produkte und stellt Entwicklungs- und Projektteams vor neue technische, organisatorische und regulatorische Herausforderungen.",
    "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8818&sp_id=1",
-   "typ": "seminarDetailPage"
-  },
-  {
-   "title": "23. EMV-Industrieseminar",
-   "place": "Magdeburg, Deutschland",
-   "start": "03.11.2026",
-   "end": null,
-   "desc": "EMV-Sicherheit wirtschaftlich und effektiv in der Praxis umsetzen – Im Blickwinkel von Automatisierung, KI-Anwendungen, Nutzung hoher Frequenzen, Defence-Technologien sowie weiteren aktuellen Anforderungen der EMV.",
-   "u": "https://www.emv.ovgu.de/Industrie/EMV_Industrieseminare-p-694.html",
    "typ": "seminarDetailPage"
   },
   {
