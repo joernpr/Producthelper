@@ -1,25 +1,7 @@
 {
- "stand": "03.11.2026",
+ "stand": "04.11.2026",
  "quelle": "https://www.phoenixcontact.com/de-de/events-und-news/events-und-seminare",
  "events": [
-  {
-   "title": "Cyber Security Basiswissen CRA - für Entwicklungs‑ und Projektteams",
-   "place": "Online, Deutschland",
-   "start": "03.11.2026",
-   "end": "04.11.2026",
-   "desc": "Der Cyber Resilience Act (CRA) schafft einen neuen Rechtsrahmen für die Cyber Security vernetzter Produkte und stellt Entwicklungs- und Projektteams vor neue technische, organisatorische und regulatorische Herausforderungen.",
-   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8818&sp_id=1",
-   "typ": "seminarDetailPage"
-  },
-  {
-   "title": "Planerforum",
-   "place": "Bielefeld, Deutschland",
-   "start": "03.11.2026",
-   "end": "04.11.2026",
-   "desc": "An zwei Tagen bieten wir Ihnen ein vielfältiges Programm aus hochkarätigen Fachvorträgen, praxisnahen Workshops, Live‑Demonstrationen und exklusiven Einblicken in aktuelle Technologien.",
-   "u": "https://event.phoenixcontact.com/Planerforum2026",
-   "typ": "exploreEvent"
-  },
   {
    "title": "MARKING system Software – Kennzeichnungsprozesse mit SKEMDIT",
    "place": "Online, Deutschland",
@@ -117,15 +99,6 @@
    "end": "26.11.2026",
    "desc": "Der Cyber Resilience Act (CRA) stellt Hersteller von Maschinen und Anlagen vor die Aufgabe, Cyber Security systematisch in Entwicklung, Konformitätsbewertung und Produktpflege zu integrieren.",
    "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8819&sp_id=1",
-   "typ": "seminarDetailPage"
-  },
-  {
-   "title": "CE‑konforme elektrische Ausrüstung – Umsetzung nach Stand der Technik",
-   "place": "",
-   "start": "17.11.2026",
-   "end": "18.11.2026",
-   "desc": "Die elektrische Ausrüstung von Maschinen und Anlagen ist ein entscheidender Baustein für die CE-Konformität und die sichere Inbetriebnahme.",
-   "u": "https://event.phoenixcontact.com/microsite/index.cfm?l=8806&sp_id=1",
    "typ": "seminarDetailPage"
   },
   {
